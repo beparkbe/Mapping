@@ -2,15 +2,12 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6102796,3.886663,Parking Public CENTRE COMMERCIAL POLYGONE (Couvert),Allee henri 2 de montmorency, 34000 Montpellier,France,10538,77lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.0005778,2.5187328,Parking Hôtel ZENITUDE - CHARLES DE GAULLE (Couvert),8 allée du Verger, 95700 Roissy-en-France,France,2673,75lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8841498,2.3634681,Parking Public STATION AVIA - SARL JABY (Couvert),7 Boulevard de la Chapelle, 75010 Paris,France,3509,74lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.2243735,6.1008613,Parking Immeuble ICC PRIVERA (Couvert),Route du Pré Bois 20, 1215 Genève,Suisse,12089,66lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.819684,2.37614,Parking Hôtel COMFORT HOTEL PARIS PORTE D'IVRY (Couvert),11 Rue René Villars, 94200 Ivry-sur-Seine,France,2940,61lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.8700535,4.4062366,Parking Hôtel COURTYARD BY MARRIOTT BRUXELLES (Couvert),42 avenue des anciens combattants, 1140 Bruxelles,Belgique,12650,56lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6071704,3.8940594,Parking Public TAM EUROPA (Couvert),Rue Poséidon, 34000 Montpellier,France,3225,49lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.0419756,2.0899816,Parking Immeuble FAC-HABITAT ÉDOUARD MARTEL (Couvert),48-50 avenue de Verdun, 95300 Pontoise,France,3966,49lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7786825,2.212775,Parking Hôtel HOLIDAY INN EXPRESS PARIS - VELIZY (Couvert),51 Avenue de l'Europe, 78140 Vélizy-Villacoublay,France,3350,47lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.872256,2.3054685,Parking Public CLARIDGE (Couvert),60 Rue de Ponthieu, 75008 Paris,France,25,46lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8637721,2.3479995,Parking Public BERGER-LES HALLES (Couvert),7 rue de Turbigo ou 21 Rue des Halles, 75001 Paris,France,4036,46lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.2248829,6.1067473,Parking Hôtel CROWNE PLAZA GENEVA AIRPORT (Couvert),Avenue Louis-Casaï 75-77, 1216 Cointrin,Suisse,4170,46lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8270569,2.3933843,Parking Public BERCY 2 (Couvert),12 Rue Escoffier, 75012 Paris,France,7407,46lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7908468,2.4485915,Parking Immeuble AVENUE DU MARÉCHAL LYAUTEY (Couvert),Avenue du Maréchal Lyautey, 94000 Créteil,France,7283,41lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8761877,2.3238828,Parking Public CENTRE COMMERCIAL SAINT-LAZARE (Couvert),20 rue de rome, 75008 Paris,France,5849,32lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -31,7 +28,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8449714,2.3996632,Parking Public PARK IPTRANS AUTO (Couvert),28 Avenue de Saint-Mandé, 75012 Paris,France,33,22lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8274231,2.3210308,Parking Hôtel IBIS PARIS ALÉSIA MONTPARNASSE 14ÈME (Couvert),49 Rue des Plantes, 75014 Paris,France,2875,22lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8951478,2.2390491,Parking Hôtel PULLMAN PARIS LA DÉFENSE (Couvert),11 Avenue de l'Arche, 92400 Courbevoie,France,70,22lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.2211624,6.103311,Parking Hôtel GENEVA MARRIOTT HOTEL (Couvert),Chemin du Ruisseau  1, 1217 Genève,Suisse,10241,22lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.969536,2.464092,Parking Hôtel IBIS GONESSE (Extérieur),2 Rue De Montservon , 95500 Gonesse,France,5746,21lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7262005,2.2651718,Parking Hôtel RESIDHOME PARIS MASSY (Extérieur),7 Rue Christophe Colomb, 91300 Massy,France,7667,21lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8375994,2.2403056,Parking Public CENTRE COMMERCIAL LES PASSAGES (Couvert),9 rue le Corbusier, 92100 Boulogne-Billancourt,France,4949,20lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -56,7 +52,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.0041495,2.5213022,Parking Hôtel MERCURE PARIS ROISSY-CHARLES-DE-GAULLE (Extérieur),3 allée du verger, 95700 Roissy-en-France,France,80,16lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8687509,2.3611115,Parking Hôtel RENAISSANCE PARIS RÉPUBLIQUE (Couvert),40 rue René Boulanger, 75010 Paris,France,3065,16lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7186076,2.2643498,Parking Hôtel NOVOTEL MASSY PALAISEAU (Extérieur),18-20 Rue Emile Baudot, 91120 Palaiseau,France,3174,16lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.2195949,6.1354138,Parking Immeuble AVENUE GIUSEPPE MOTTA (Couvert),Avenue Giuseppe Motta 48, 1202 Genève,Suisse,4945,16lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8857426,2.3613621,Parking Immeuble 54 RUE PHILIPPE DE GIRARD (Couvert),54 rue Philippe de Girard, 75018 Paris,France,7251,16lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8793258,2.3768225,Parking Public GARAGE SAINT-GEORGES (Couvert),76 Avenue Secrétan, 75019 Paris,France,72,15lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8256763,2.3932157,Parking Hôtel IBIS PARIS PORTE DE BERCY (Couvert),2 place de l'Europe, 94220 Charenton-le-Pont,France,3507,15lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -89,7 +84,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.034644,2.0722856,Parking Hôtel B&B CERGY PORT (Extérieur),3 Avenue du Parc, 95011 Cergy,France,5574,11lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8809889,2.2904021,Parking Immeuble SAEMES PEREIRE (Couvert),face au  209 Boulevard Pereire, 75017 Paris,France,4159,11lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8574838,2.3728033,Parking Hôtel IBIS PARIS BASTILLE OPERA 11ÈME (Couvert),10 Rue Froment, 75011 Paris,France,3422,11lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4142676,8.5427331,Parking Hôtel ACASA SUITES ZÜRICH (Couvert),Binzmühlestrasse 72, 8050 Zürich,Suisse,5294,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.860168,2.3862579,Parking Immeuble 49 RUE DE LA FOLIE RÉGNAULT (Couvert),49 rue de la Folie Régnault, 75011 Paris,France,7274,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8853079,2.3662347,Parking Immeuble 15 RUE DU DÉPARTEMENT (Couvert),15 rue du Département, 75018 Paris,France,7273,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.895723,2.2619096,Parking Hôtel IBIS PARIS LA DÉFENSE COURBEVOIE (Couvert),39 Quai du Président Paul Doumer, 92400 Courbevoie,France,2966,10lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -102,9 +96,7 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8904319,2.3865924,Parking Immeuble 48 RUE DE THIONVILLE (Couvert),48 rue de Thionville, 75019 Paris,France,13970,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.7258726,4.9746835,Parking Immeuble ANNEXX LYON - CHASSIEU EUREXPO (Extérieur),49 rue Ampère, 69680 Chassieu,France,3967,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.4024511,1.1617159,Parking Hôtel CAMPANILE ROUEN EST - FRANQUEVILLE SAINT PIERRE (Extérieur),210 rue Jehan Ango, 76520 Franqueville-Saint-Pierre,France,4372,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.8364034,4.3733341,Parking Immeuble GODECHARLE,PARLEMENT EUROPÉEN (Couvert) 14 rue Godecharle, 1050 Bruxelles,Belgique,5346,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.3869724,1.0653451,Parking Hôtel NOVOTEL ROUEN SUD (Extérieur),Angle Avenue de l'Université Rue de la Mare aux Sangsues, 76800 Saint-Étienne-du-Rouvray,France,3136,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.836857,4.3742832,Parking Immeuble WIERTZ,PARLEMENT EUROPÉEN (Couvert) Rue Wiertz 6, 1050 Bruxelles,Belgique,5351,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.7255317,4.9683041,Parking Hôtel IBIS BUDGET LYON EUREXPO CHASSIEU (Extérieur),22 Avenue des Frères Montgolfier, 69680 Chassieu,France,2857,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8524655,2.3804694,Parking Immeuble 12 RUE CHARLES DELESCLUZE (Couvert),12 rue Charles Delescluze, 75011 Paris,France,7246,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 50.690365,3.177437,Parking Hôtel IBIS LILLE ROUBAIX CENTRE (Couvert),43 Boulevard du Général Leclerc, 59100 Roubaix,France,3531,9lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -126,7 +118,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8826155,2.3691939,Parking Immeuble 247 RUE LA FAYETTE (Couvert),247 rue La Fayette, 75010 Paris,France,7205,8lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8903325,2.3795202,Parking Immeuble 20 RUE DE JOINVILLE (Couvert),20 rue de Joinville, 75019 Paris,France,7265,8lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8450679,2.3713735,Parking Hôtel COURTYARD BY MARRIOTT PARIS GARE DE LYON (Couvert),209-211 rue de Bercy, 75012 Paris,France,4442,8lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.223083,6.1330873,Parking Hôtel INTERCONTINENTAL GENÈVE (Couvert),Chemin du Petit-Saconnex 7-9, 1209 Genève,Suisse,4440,8lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8820358,2.3330579,Parking Public BLANCHE PIGALLE (Couvert),7 rue Mansart, 75009 Paris,France,5155,8lat,lon,Parking name, Adresse, OnePark ID, Spots
 50.6138541,3.1203268,Parking Hôtel PREMIÈRE CLASSE LILLE - VILLENEUVE D'ASCQ - STADE PIERRE MAUROY (Extérieur),Rue Chanzy, 59260 Lezennes,France,3589,8lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8383711,2.3810439,Parking Hôtel IBIS STYLES PARIS BERCY (Couvert),77 Rue de Bercy, 75012 Paris,France,3210,8lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -139,11 +130,9 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8155662,2.3589865,Parking Hôtel CAMPANILE PARIS SUD - PORTE D'ITALIE (Couvert),2 Boulevard du Général de Gaulle, 94270 Le Kremlin-Bicêtre,France,3373,8lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8709114,2.3812635,Parking Immeuble 29 RUE BISSON (Couvert),29 rue Bisson, 75020 Paris,France,7266,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.4429832,1.0786001,Parking Hôtel B&B ROUEN CENTRE RIVE DROITE (Couvert),62 Quai Gaston Boulet, 76000 Rouen,France,3302,7lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.8497214,4.3559964,Parking Hôtel RADISSON COLLECTION HOTEL GRAND PLACE BRUSSELS (Couvert),Rue du Fossée aux Loups 47, 1000 Bruxelles,Belgique,4007,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 44.8904384,-0.5667162,Parking Hôtel NOVOTEL BORDEAUX LAC (Extérieur),Rue Jean Samazeuilh, 33300 Bordeaux,France,3059,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8323093,2.7056044,Parking Hôtel CAMPANILE BUSSY SAINT-GEORGES (Extérieur),8 avenue Marie Curie, 77600 Bussy-Saint-Georges,France,5152,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.247262,5.3901525,Parking Hôtel IBIS MARSEILLE BONNEVEINE CALANQUES PLAGES (Extérieur),8 Avenue Elsa Triolet, 13008 Marseille,France,3053,7lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.8526058,4.448905,Parking Hôtel TANGLA HOTEL BRUSSELS AIRPORT (Couvert),Avenue Emmanuel Mounier 5, 1200 Woluwe-Saint-Lambert,Belgique,9944,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8756729,2.3724695,Parking Immeuble 53 BOULEVARD DE LA VILLETTE (Couvert),53/55  Boulevard de la Villette, 75010 Paris,France,5032,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8765993,2.3999697,Parking Immeuble 24 RUE DE ROMAINVILLE (Couvert),24 rue de Romainville, 75019 Paris,France,7260,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6380132,1.3696383,Parking Hôtel HAMPTON BY HILTON TOULOUSE AIRPORT (Couvert),92 rue de Bordebasse, 31700 Blagnac,France,5035,7lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -156,11 +145,9 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.7865,3.1425437,Parking Hôtel NOVOTEL CLERMONT-FERRAND (Extérieur),32-34 Rue Georges Besse, 63100 Clermont-Ferrand,France,3878,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.753413,2.35071,Parking Hôtel BEST WESTERN PARIS ORLY RUNGIS (Extérieur),4 Avenue Charles Lindbergh, 94150 Rungis,France,6095,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8259589,2.4065225,Parking Public VALMY LIBERTÉ (Couvert),139 Rue de Paris, 94220 Charenton-le-Pont,France,59,6lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.2361844,6.1484296,Parking Immeuble PREGNY PARC (Couvert),Chemin des Cornillons 66 à 106 Residence Pregny-Parc, 1292 Pregny-Chambésy,Suisse,12651,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.6219157,-1.9913842,Parking Hôtel BRIT HOTEL SAINT MALO - LE TRANSAT (Couvert),3 Rue de la Saulaie, 35400 Saint-Malo,France,3530,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 47.3751072,0.6860551,Parking Hôtel IBIS STYLES TOURS CENTRE (Couvert),11 rue Febvotte, 37000 Tours,France,3190,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.4179775,2.0417522,Parking Hôtel IBIS BUDGET BEAUVAIS AEROPORT (Extérieur),53 Rue du Moulin, 60000 Beauvais,France,10637,6lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.5562958,6.5612014,Parking Hôtel NOVOTEL LAUSANNE BUSSIGNY (Extérieur),Route de Condémine 35, 1030 Bussigny,Suisse,3899,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 50.6417788,3.0665614,Parking Hôtel MERCURE LILLE CENTRE VIEUX-LILLE (Couvert),27 rue des Tours, 59800 Lille,France,3052,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8647054,2.3924224,Parking Immeuble 3 RUE ROBINEAU (Couvert),3 rue Robineau, 75020 Paris,France,7244,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8726115,2.4081571,Parking Immeuble 76 RUE SAINT-FARGEAU (Couvert),76 rue Saint-Fargeau, 75020 Paris,France,7257,5lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -193,7 +180,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7273044,2.2649108,Parking Hôtel MERCURE PARIS MASSY GARE TGV (Couvert),21 Avenue Carnot, 91300 Massy,France,3232,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.5119159,5.4874076,Parking Hôtel B&B AIX-EN-PROVENCE LE THOLONET (Extérieur),531 Avenue Paul Julien, 13100 Le Tholonet,France,3913,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.7698031,4.8266359,Parking Public CLINIQUE SAINT-CHARLES (Extérieur),25 rue de Flesselle, 69001 Lyon,France,4019,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.5249375,6.6259455,Parking Hôtel IBIS LAUSANNE CENTRE (Couvert),20 rue du Maupas, 1004 Lausanne,Suisse,3229,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8260554,2.361718,Parking Immeuble - 2 Roues - 3 RUE AUMONT (Couvert),3 rue Aumont, 75013 Paris,France,12618,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8800273,2.1850303,Parking Hôtel IBIS PARIS RUEIL-MALMAISON (Couvert),16 boulevard de l'Hopital Stell, 92500 Rueil-Malmaison,France,3098,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8363482,2.2948228,Parking Public 371 VAUGIRARD (Couvert),371 Rue de Vaugirard, 75015 Paris,France,8162,4lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -233,7 +219,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.827841,2.2824345,Parking Immeuble RUE MICHELET (Couvert),3 rue Michelet, 92130 Issy-les-Moulineaux,France,3265,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8647054,2.3924224,Parking Immeuble - 2 Roues - 3 RUE ROBINEAU (Couvert),3 rue Robineau, 75020 Paris,France,7469,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7466407,2.4090693,Parking Immeuble RUE DU DOCTEUR CALMETTE (Couvert),5 rue du Dr Calmette, 94310 Orly,France,4291,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.5482228,6.5618318,Parking Hôtel IBIS BUDGET LAUSANNE BUSSIGNY (Couvert),67 rue de l'Industrie, 1030 Bussigny,Suisse,3896,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.5578108,7.7425486,Parking Hôtel IBIS STYLES STRASBOURG STADE DE LA MEINAU (Couvert),Rue Schertz, 67100 Strasbourg,France,3137,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8332942,2.3151416,Parking Immeuble 6 RUE DECRÈS (Couvert),6 rue Decrès, 75014 Paris,France,7255,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.7788241,4.8745534,Parking Hôtel IBIS STYLES LYON VILLEURBANNE (Couvert),4 rue de la Doua, 69100 Villeurbanne,France,3397,2lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -246,7 +231,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.9302189,4.7904397,Parking Hôtel PREMIÈRE CLASSE AVIGNON - COURTINE (Extérieur),255 Chemin de Ramatuel, 84000 Avignon,France,3748,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8504501,2.292707,Parking Hôtel MERCURE PARIS TOUR EIFFEL GRENELLE (Couvert),64 Boulevard de Grenelle, 75015 Paris,France,3115,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8981398,2.3830519,Parking Immeuble 14 QUAI DE LA CHARENTE (Couvert),14 quai de la Charente, 75019 Paris,France,7280,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.2161954,6.1324357,Parking Immeuble GRAND PRÉ (Couvert),Grand Pré 64-66, 1202 Genève,Suisse,10208,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8222833,2.2940086,Parking Hôtel IBIS PARIS PORTE DE VANVES PARC DES EXPOSITIONS (Couvert),43 Rue Jean Bleuzen, 92170 Vanves,France,3072,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6018742,1.4576297,Parking Hôtel IBIS STYLES TOULOUSE CENTRE CANAL DU MIDI (Couvert),6 rue Jean Goujon, 31500 Toulouse,France,7403,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7592096,2.3219249,Parking Hôtel IBIS BUDGET FRESNES (Couvert),30-32 avenue de la Division Leclerc, 94260 Fresnes,France,4088,1lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -277,7 +261,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.8776896,-4.7910264,Parking Public CÓRDOBA CENTRO IPARK (Couvert),Avenida del Aeropuerto 11, 14004 Córdoba,Espagne,5465,40lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.4052466,-5.9275512,Parking Hôtel SAN PABLO SEVILLA (Couvert),Av. de la Innovación 10, 41020 Sevilla,Espagne,3956,38lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3283223,2.1129012,Parking Hôtel BEST WESTERN PLUS HOTEL ALFA AEROPUERTO (Extérieur),Best Western Plus Hotel Alfa Aeropuerto Carrer K Zona Franca, 8040 Barcelona,Espagne,3588,37lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7733002,-9.0984546,Parking Hôtel VIP EXECUTIVE ARTS (Couvert),Passeio do Cantábrico 22, 1990-059 Lisboa,Portugal,5009,36lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.373737,2.170002,Parking Public PROMOPARC VILA I VILÀ (Couvert),Carrer de Vila i Vilà 61, 8004 Barcelona,Espagne,3579,35lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3726896,2.1502206,Parking Public BSM RIUS I TAULET-FONTS MONJUÏC-FIRA (Couvert),Av. de la Reina Maria Cristina 16, 8004 Barcelona,Espagne,11695,32lat,lon,Parking name, Adresse, OnePark ID, Spots
 38.097945,-3.6327128,Parking Public SANTA MARGARITA (Couvert),Plaza Constitución, 23700 Linares,Espagne,4908,30lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -320,7 +303,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 36.8406572,-2.462554,Parking Public RAMBLA OBISPO ORBERÁ (Couvert),Calle Rambla Obispo Orberá 20, 4001 Almería,Espagne,5462,19lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.397737,2.1611133,Parking Public N.N CÓRSEGA (Couvert),Carrer de Còrsega 344, 8037 Barcelona,Espagne,5737,19lat,lon,Parking name, Adresse, OnePark ID, Spots
 38.0001661,-1.14188,Parking Hôtel IBIS MURCIA (Couvert),Calle Madre Paula Gil Cano S/N (Junto Carrefour Zaraiche), 30009 Murcia,Espagne,4941,19lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.7857129,12.4346101,Parking Hôtel MERCURE ROMA WEST (Couvert),Via Eroi di Cefalonia 301, 128 Roma,Italie,4808,19lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4087099,-3.714627,Parking Public PROMOPARC HOSPITAL V.O.T. (Couvert),Calle de la Ventosa 26, 28005 Madrid,Espagne,3581,19lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3745095,2.1656386,Parking Public PROMOPARC POETA CABANYES (Couvert),Carrer del Poeta Cabanyes 4, 8004 Barcelona,Espagne,3578,19lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.61899,0.6282453,Parking Public PROMOPARC AUDITORI LLEIDA (Couvert),Carrer la Parra 25, 25007 Lleida,Espagne,3594,18lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -456,11 +438,9 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3568471,2.1413642,Parking Public N.N. ZONA FRANCA (Couvert),Passeig de la Zona Franca , 8038 Barcelona,,5316,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 38.3456146,-0.49446,Parking Public SABA ESTACIÓN TREN ALICANTE -,Avenida Salamanca , ,Espagne,5857,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 38.3452691,-0.4926765,Parking Public SABA ESTACIÓN TREN PONTEVEDRA (Extérieur),Avda de la Estación , ,Espagne,5115,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1684835,-8.6254265,Parking Public PARKIN CARVALHIDO (Couvert),Rua do Carvalhido , ,Portugal,6410,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4138522,2.1718289,Parking Public SABA HOSPITAL SANT PAU (Extérieur),Carrer del Mas Casanovas 74, ,,5271,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3865295,2.1429443,Parking Public SABA BAMSA TARRADELLAS II (Couvert),Av. de Josep Tarradellas , ,Espagne,5363,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4399597,-3.6742703,Parking Public HOSPITAL QUIRÓN SALUD SAN JOSÉ (Couvert),Calle Mataelpino 5, ,,5468,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.549744,-8.4202346,Parking Public PARQUE VISCONDE DO RAIO (Couvert),Rua Raio , ,Portugal,4958,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3794709,2.1624904,Parking Public SABA BAMSA URGELL (Couvert),Carrer del Comte d'Urgell 12, ,,5250,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4288494,2.1732312,Parking Public GUINARDÓ - VIRREI AMAT (Couvert),Carrer del Baró d'Esponellà , ,Espagne,5486,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3992008,2.1529286,Parking Public BAMSA GAL-LA PLACÍDA (Couvert),Plaça de Gal·la Placídia , ,Espagne,5388,10lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -539,7 +519,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 38.343403,-0.4881027,Parking Public SABA MAISONNAVE (Couvert),Pl. Calvo Sotelo , ,Espagne,5099,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.386482,2.1779631,Parking Public SABA BAMSA FRANCESC CAMBÓ (Couvert),Av. de Francesc Cambó , ,Espagne,5519,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.8890948,-4.790813,Parking Public SABA ESTACIÓN TREN CÓRDOBA Tarifs réguliers (Couvert),Calle Arqueólogo García y Bellido , ,Espagne,5166,9lat,lon,Parking name, Adresse, OnePark ID, Spots
-39.399872,-8.224454,Parking Public PARQUE VISCONDE DE SETUBAL (Couvert),Rua Visconde de Setubal , ,Portugal,4869,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 36.7108437,-4.4307496,Parking Public SABA ESTACIÓN TREN MALAGA - Tarifs réguliers (Couvert),Explanada de la Estación, ,,5855,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.4682942,-0.3335732,Parking Public MARTÍ GRAJALES VALENCIA (Couvert),Carrer de Martí Grajales s/n, ,,5483,8lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3966748,2.1685801,Parking Public N.N. VALENCIA (Couvert),Carrer de València , ,Espagne,5286,8lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -565,7 +544,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 42.9896248,-2.6189273,Parking Hôtel AC LOS VASCOS (Couvert),Los Vascos , ,Espagne,4624,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3750033,2.1700412,Parking Public EDEN (Couvert),Carrer Nou de la Rambla , ,Espagne,3695,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4510669,-3.5949143,Parking Hôtel NH MADRID BARAJAS (Couvert),Calle Catamarán 1, ,,6677,7lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7250122,-9.1535171,Parking Hôtel IBEROSTAR LISBOA (Couvert),Rua Castilho , ,Portugal,5861,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4271276,-3.7064698,Parking Hôtel GENERATOR MADRID (Couvert),Calle San Bernardo , ,Espagne,6082,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.4741763,-0.3554544,Parking Hôtel B&B ALICANTE (Extérieur),Calle Bélgica , ,Espagne,4009,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.3278252,-3.0296335,Parking Hôtel URH PALACIO DE ORIOL (Couvert),Cristobal de Murrieta Hiribidea 27, ,,6075,6lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -575,11 +553,9 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4201979,-3.7069357,Parking Hôtel INDIGO MADRID GRAN VIA (Couvert),Calle Jacometrezo , ,Espagne,5560,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.4553293,-0.3588046,Parking Hôtel NH VALENCIA LAS ARTES (Couvert),Avinguda de l'Institut Obrer de València , ,Espagne,6044,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 28.0629282,-16.7308947,Parking Hôtel LA SIESTA (Extérieur),Av. Rafael Puig Lluvina , Santa Cruz de Tenerife,Espagne,4293,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7320454,-9.1520525,Parking Public GLÓRIA GARAGEM (Couvert),Av. Antonio Augusto Aguiar , 1050-014 Lisboa,Portugal,5452,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.6621231,-0.8714429,Parking Hôtel IBIS ZARAGOZA CENTRO (Couvert),Calle Matilde Sanguesa , ,Espagne,6091,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4587323,-3.6836894,Parking Public MUNDIAL (Couvert),Av. de Alberto de Alcocer , ,Espagne,3753,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4032119,2.1296232,Parking Public DR ROIG I RAVENTOS (Couvert),Carrer de Dalmases 76 B, ,,5190,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-32.6534302,-16.9123271,Parking Public 5 DE OUTUBRO (Couvert),Rua 5 de Outubro , ,Portugal,5431,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 51.2424847,6.7383488,Parking Hôtel COURTYARD BY MARRIOTT DÜSSELDORF SEESTERN (Extérieur),Am Seestern 16, ,,5875,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4306256,-3.6810668,Parking Public CASTELLO 98 (Couvert),Calle de Castelló , ,Espagne,4917,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4376018,-3.6748092,Parking Public COSLADA (Couvert),Calle de Coslada , ,Espagne,3755,5lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -593,7 +569,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.6273221,0.6226162,Parking Hôtel SANSI PARK (Couvert),Avenida Alcalde Porqueres , ,Espagne,5792,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.3087741,-3.7261229,Parking Public GENERAL PALACIO (Couvert),Av. General Palacio , ,Espagne,4244,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.3164253,-3.733061,Parking Hôtel B&B MADRID GETAFE (Couvert),Calle Torroja , ,Espagne,6022,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1583885,-8.6198286,Parking Public GARAGEM BARÃO (Couvert),Rua Barão de Forrester , ,Portugal,5425,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4559922,-3.674263,Parking Hôtel SERCOTEL VALLADOLID (Couvert),Calle de Puerto Rico , ,Espagne,5751,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3817659,2.1319693,Parking Public ATENEA (Couvert),Carrer de Joan Güell , ,Espagne,3938,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.2641712,-2.9420431,Parking Hôtel CATALONIA GRAN VIA BILBAO (Couvert),Gran Vía de Don Diego López de Haro 73, ,,12749,5lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -609,7 +584,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.2494498,-2.9184126,Parking Hôtel GRAN BILBAO (Couvert),Prieto Indalecio Hiribidea , ,Espagne,4521,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.6435477,-4.7338458,Parking Hôtel ZENTRAL PARQUE (Couvert),Paseo del Hospital Militar , ,Espagne,4534,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.3736241,-5.8492375,Parking Hôtel IBIS Y IBIS BUDGET OVIEDO (Couvert),Calle Ernesto Winter Blanco , ,Espagne,4421,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7425093,-9.1569222,Parking Public GARAGEM SILVEIRA (Couvert),Rua da Beneficiencia , ,Portugal,5109,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4502548,2.2153779,Parking Public Centro Santa Coloma (Extérieur),Carrer del Doctor Pagès 24, ,,4921,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 36.841902,-2.4596928,Parking Public PARKING FÁTIMA (Couvert),Calle Santos Zarate , ,Espagne,5836,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3944689,2.1820495,Parking Hôtel NH COLLECTION BARCELONA PÓDIUM (Couvert),Carrer d'Alí Bei , ,Espagne,6038,4lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -617,7 +591,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4230188,-3.7062103,Parking Public GARAJE LUNA (Couvert),Calle de Pizarro 7, ,,5790,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4030205,2.1747972,Parking Public PLAFER MALLORCA (Couvert),Carrer de Mallorca , ,Espagne,4416,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4072266,-3.688864,Parking Hôtel ONLY YOU ATOCHA (Couvert),Paseo de la Infanta Isabel , ,Espagne,5827,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7202964,-9.1584554,Parking Hôtel V DINASTIA GUESTHOUSE LISBOA (Extérieur),Rua Dom João V , ,Portugal,5742,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3862964,2.1358451,Parking Public PROMOPARC NH SANTS (Couvert),Carrer de Numància , ,Espagne,3577,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.2011816,-3.6145155,Parking Hôtel B&B HOTEL GRANADA ESTACIÓN (Couvert),Av. de Juan Pablo II , ,Espagne,4803,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4369567,-3.6715076,Parking Hôtel AC AVENIDA DE AMERICA (Couvert),Calle Iriarte , ,Espagne,5550,3lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -672,10 +645,8 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 47.1592315,-1.5972253,Parking Hôtel OCEANIA NANTES AÉROPORT (Extérieur),Rue Pierre Latecoëre, 44340 Bouguenais,France,3244,21lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.9988943,2.5176092,Parking Hôtel NOVOTEL PARIS ROISSY CDG CONVENTION (Extérieur),10 allée du Verger, 95700 Roissy-en-France,France,3690,20lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.0108245,2.5608307,Parking Hôtel IBIS PARIS CDG AIRPORT (Couvert),Rue de Bruxelles, 93290 Tremblay-en-France,France,58,19lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.8920372,4.4605647,Parking Hôtel NOVOTEL BRUSSELS AIRPORT (Extérieur),Leonardo Da Vincilaan 25, 1831 Zaventem,Belgique,4978,18lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.0197444,2.585056,Parking Hôtel OCEANIA PARIS ROISSY CDG (Couvert),34-36 rue de Paris, 77990 Le Mesnil-Amelot,France,3656,18lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.9987058,2.5160093,Parking Hôtel PENTAHOTEL PARIS CHARLES DE GAULLE (Extérieur),12 Allée du Verger, 95700 Roissy-en-France,France,34,18lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4494853,8.5403344,Parking Hôtel B&B HOTEL ZÜRICH AIRPORT RÜMLANG (Extérieur),Hofwisenstrasse 52, 8153 Rümlang,Suisse,5128,16lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8678291,2.4153639,Parking Hôtel IBIS PARIS PORTE DE BAGNOLET (Couvert),31 Rue Adélaïde Lahaye, 93170 Bagnolet,France,3066,16lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.0008818,2.5197037,Parking Hôtel STANDING HOTEL SUITES (Extérieur),9 allée du verger, 95700 Roissy-en-France,France,4355,16lat,lon,Parking name, Adresse, OnePark ID, Spots
 50.7198461,1.6069366,Parking Hôtel IBIS BUDGET BOULOGNE-SUR-MER CENTRE LES PORTS (Extérieur),2 bis Boulevard Daunou, 62200 Boulogne-sur-Mer,France,3909,15lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -691,36 +662,25 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7973859,2.3478845,Parking Hôtel CAMPANILE VILLEJUIF (Extérieur),20 Rue du Dr Pinel, 94800 Villejuif,France,6054,11lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.859878,2.3833819,Parking Immeuble SAEMES ROQUETTE (Couvert),Face au 19 rue Servan, 75011 Paris,France,3585,11lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.588995,3.934971,Parking Hôtel FORME-HOTEL MONTPELLIER (Extérieur),185 Rue Charles Lindbergh , 34130 Mauguio,France,4001,11lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.8813794,4.4370095,Parking Hôtel IBIS BRUSSELS AIRPORT (Extérieur),Bessenveldstraat 17B, 1831 Diegem,Belgique,3671,11lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.6658317,5.0851139,Parking Hôtel MARTINEZ GRENAY (Extérieur),Chemin de Montmurier, 38540 Grenay,France,3542,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.8908554,4.4597576,Parking Hôtel CROWNE PLAZA BRUXELLES AÉROPORT (Extérieur),Da Vincilaan 4, 1831 Diegem,Belgique,4540,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.3870899,-1.0517385,Parking Hôtel ADONIS GRANDCAMP - LES ISLES DE SOLA (Extérieur),8 Rue du Joncal, 14450 Grandcamp-Maisy,France,3517,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.9253371,4.4351798,Parking Hôtel CAMPANILE VILVOORDE (Extérieur),Luchthavenlaan 2, 1800 Vilvoorde,Belgique,4805,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.28656,-0.100024,Parking Hôtel KYRIAD PRESTIGE RÉSIDENCE DIVES SUR MER (Extérieur),5 Promenades de la Dives, 14160 Dives-sur-Mer,France,5579,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.7613495,4.9246085,Parking Hôtel IBIS LYON CARRÉ DE SOIE - AÉROPORT DE LYON SAINT-EXUPÉRY (Couvert),20 av. des Canuts , 69120 Vaulx En Velin,France,14432,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 47.2869602,-2.4039446,Parking Hôtel ADONIS LA BAULE (Extérieur),53 avenue du Maréchal Franchet d'Esperey, 44500 La Baule,France,3516,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.5511058,7.5888877,Parking Hôtel RADISSON BLU HOTEL BASEL (Couvert),Steinentorstrasse 25, 4001 Basel,Suisse,4458,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.572989,7.7929444,Parking Hôtel F1 STRASBOURG PONT DE L'EUROPE (Extérieur),55 Avenue du Rhin, 67000 Strasbourg,France,4773,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.4253856,5.2513464,Parking Hôtel KYRIAD VITROLLES MARSEILLE Gare Aix-en-Provence TGV (Extérieur),1 rue de Madrid - Zi Des Estroublans, 13127 Vitrolles,France,8559,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 47.2424743,6.0319136,Parking Hôtel MERCURE BESANÇON PARC MICAUD (Extérieur),3 Avenue Edouard Droz, 25000 Besançon,France,3534,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.2048171,2.3602355,Parking Hôtel ADONIS CARCASSONNE - RÉSIDENCE LA BARBACANE (Couvert),5 Rue Barbacane, 11000 Carcassonne,France,3521,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.4129359,6.7815652,Parking Hôtel BEST WESTERN PLUS HOTEL LA MARINA (Couvert),30 place de la Marina – Port Santa Lucia, 83700 Saint-Raphaël,France,3670,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4228429,8.5592058,Parking Hôtel KAMEHA GRAND ZÜRICH (Couvert),Dufaux-Strasse 1, 8152 Opfikon,Suisse,5207,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.0136043,0.1634171,Parking Hôtel PREMIERE CLASSE LE MANS (Extérieur),Rue jean Grémillon, 72000 Le Mans,France,5779,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-51.0191827,3.7357785,Parking Hôtel CAMPANILE GENT (Extérieur),Akkerhage 1, 9000 Gent,Belgique,4896,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8169128,2.3664505,Parking Hôtel B&B PARIS ITALIE PORTE DE CHOISY (Couvert),3 à 15 rue Charles Leroy, 94200 Ivry-sur-Seine,France,3304,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.2207715,6.1137518,Parking Hôtel NOVOTEL SUITES GENÈVE AÉROPORT (Couvert),Avenue Louis Casaï 30, 1216 Cointrin,Suisse,3898,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7703784,2.3676053,Parking Hôtel ADONIS PARIS SUD (Couvert),196 avenue de Stalingrad, 94450 Chevilly-Larue,France,3520,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4509985,8.540114,Parking Hôtel RADISSON ZURICH AIRPORT (Couvert),Flughofstrasse 75, 8153 Rümlang,Suisse,4956,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4255227,8.5599646,Parking Hôtel NOVOTEL ZÜRICH AIRPORT (Extérieur),Lindbergh-Platz 1, 8152 Opfikon,Suisse,4658,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.9770747,2.5111578,Parking Hôtel GREEN HÔTELS ROISSY PARC DES EXPOSITIONS (Extérieur),62 rue de la Perdrix, 93290 Tremblay-en-France,France,4092,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 44.8903516,-0.564554,Parking Hôtel IBIS BORDEAUX LAC (Extérieur),Rue du Petit Barail , 33300 Bordeaux,France,3111,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7703784,2.3676053,Parking Hôtel ADONIS PARIS SUD (Extérieur),196 avenue de Stalingrad, 94550 Chevilly-Larue,France,3522,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.4084219,2.1110416,Parking Hôtel KYRIAD BEAUVAIS SUD (Extérieur),26 Rue du Gay Lussac, 60000 Beauvais,France,3368,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.5897831,3.8924972,Parking Hôtel NOVOTEL MONTPELLIER (Extérieur),125 bis Avenue de Palavas, 34070 Montpellier,France,2970,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.9025445,2.3310441,Parking Hôtel MERCURE SAINT OUEN (Couvert),1 rue Carnot, 93400 Saint-Ouen,France,6423,9lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.3908606,8.509018,Parking Hôtel SHERATON ZURICH (Couvert),Pfingstweidstrasse 104, 8005 Zürich,Suisse,5604,9lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.2364237,6.1197015,Parking Hôtel HILTON HOTEL & CONFERENCE CENTRE GENEVA (Couvert),34 Route François-Peyrot, 1218 Le Grand-Saconnex,Suisse,3050,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.0042934,2.5202354,Parking Hôtel AIDEN BY BEST WESTERN - PARIS ROISSY CDG (Extérieur),4 allée du Verger, 95700 Roissy-en-France,France,2999,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6090868,3.8939802,Parking Hôtel MERCURE MONTPELLIER CENTRE ANTIGONE (Couvert),285 boulevard de l'aéroport - International-Antigone, 34000 Montpellier,France,3352,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7563533,2.348043,Parking Hôtel B&B ORLY RUNGIS AÉROPORT 3 ÉTOILES (Extérieur),1 rue Mondetour, 94656 Rungis,France,76,9lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -737,15 +697,12 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.2090211,2.312809,Parking Hôtel KYRIAD CARCASSONNE AÉROPORT (Extérieur),Allée Gilles de Roberval, 11000 Carcassonne,France,6023,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 44.8570721,-0.6645921,Parking Hôtel KYRIAD PRESTIGE BORDEAUX OUEST - MÉRIGNAC (Extérieur),116 avenue Magudas, 33700 Mérignac,France,3060,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.6878425,5.063453,Parking Hôtel CAMPANILE LYON SAINT EXUPERY (Extérieur),5 Boulevard de l'Europe, 69720 Saint-Laurent-de-Mûre,France,6018,7lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4310405,8.4681988,Parking Hôtel MÖVENPICK REGENSDORF (Couvert),Im Zentrum 2, 8105 Regensdorf,Suisse,5361,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8582254,2.3021001,Parking Public PARC SAINT-DOMINIQUE (Couvert),133 Rue Saint-Dominique, 75007 Paris,France,2,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.0020597,2.5196657,Parking Hôtel PREMIÈRE CLASSE ROISSY - AÉROPORT CHARLES DE GAULLE (Couvert),ZAC du Parc de Roissy allée du Verger , 95700 Roissy-en-France,France,3313,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.4926857,-1.4657884,Parking Hôtel IBIS BAYONNE CENTRE (Couvert),46 Boulevard Alsace Lorraine, 64100 Bayonne,France,3104,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 47.6071374,7.5277681,Parking Hôtel F1 MULHOUSE BÂLE AÉROPORT (Extérieur),Chemin du Hoellhof, 68300 Saint-Louis,France,4769,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8557693,2.785471,Parking Hôtel ADAGIO MARNE-LA-VALLÉE VAL D'EUROPE (Couvert),11 Cours de la Garonne, 77006 Marne-la-Vallée,France,4435,6lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.3891264,8.5167507,Parking Hôtel NOVOTEL ZÜRICH CITY WEST (Couvert),Schiffbaustrasse 13, 8005 Zürich,Suisse,4851,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.845698,2.3757623,Parking Hôtel NOVOTEL PARIS GARE DE LYON (Couvert),8 Rue Hector Malot, 75012 Paris,France,3077,6lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4147075,8.5595497,Parking Hôtel IBIS ZÜRICH MESSE AIRPORT (Couvert),Heidi-Abel-Weg 5, 8050 Zürich,Suisse,4674,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8697078,2.3805051,Parking Hôtel NOVOTEL PARIS 20 BELLEVILLE (Couvert),6 Rue de Pali-Kao, 75020 Paris,France,7898,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.4304111,2.1179373,Parking Hôtel HOSTELLERIE SAINT-VINCENT (Extérieur),241 Rue de Clermont, 60000 Beauvais,France,4034,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8932831,2.3797793,Parking Hôtel CAMPANILE PARIS 19 - LA VILLETTE (Couvert),147 avenue de Flandres, 75019 Paris,France,3326,6lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -757,7 +714,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8795539,2.3560998,Parking Hôtel NEW HOTEL GARE DU NORD (Couvert),40 rue de Saint-Quentin, 75010 Paris,France,6021,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.2958307,4.0761801,Parking Hôtel BEST WESTERN PREMIER HOTEL DE LA POSTE & SPA (Couvert),Rue de Jargondis, 10000 Troyes,France,3393,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6084843,1.4534278,Parking Hôtel PULLMAN TOULOUSE CENTRE (Couvert),84 allées Jean Jaurès , 31000 Toulouse,France,3934,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.5279362,7.691864,Parking Hôtel IBIS BUDGET BASEL PRATTELN (Couvert),Grüssenhölzliweg 11, 4133 Pratteln,Suisse,4873,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 44.8294824,-0.5555455,Parking Hôtel IBIS BORDEAUX CENTRE GARE SAINT-JEAN (Extérieur),19 Quai de Paludate, 33800 Bordeaux,France,3103,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.6379648,-2.009405,Parking Hôtel IBIS BUDGET SAINT-MALO CENTRE (Couvert),23 rue des 4 pavillons, 35400 Saint-Malo,France,3084,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.1164251,5.8058818,Parking Hôtel ADONIS SANARY - HÔTEL DES BAINS (Extérieur),25 Boulevard Estienne d'Orves, 83110 Sanary-sur-Mer,France,3519,5lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -765,7 +721,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8735758,2.3411049,Parking Public GRANGE BATELIÈRE (Couvert),18 rue de la Grange Batelière, 75009 Paris,France,12750,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.4665808,-1.5400134,Parking Hôtel RESTAURANT CAMPANILE BIARRITZ (Extérieur),43 Rue Chapelet, 64000 Biarritz,France,4449,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 42.6853418,2.8639507,Parking Hôtel F1 PERPIGNAN SUD (Extérieur),16 Rue Benoît Fourneyron, 66000 Perpignan,France,10901,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.2114215,6.1472414,Parking Hôtel NOVOTEL GENÈVE CENTRE (Couvert),19 rue de Zurich, 1201 Genève,Suisse,3774,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8018438,2.1288123,Parking Hôtel LE LOUIS VERSAILLES CHÂTEAU - MGALLERY,HOTEL COLLECTIONS (Couvert) 2 bis avenue de Paris, 78000 Versailles,France,2977,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8450797,2.2667116,Parking Immeuble SAEMES SAINTE-PÉRINE (Couvert),Angle rue Chardon-Lagache et rue Mirabeau, 75016 Paris,France,3807,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7705328,2.366866,Parking Immeuble RUE DU LIEUTENANT ALAIN LE COZ (Couvert),7 Bis rue du Lieutenant Alain le Coz, 94550 Chevilly-Larue,France,5783,4lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -774,8 +729,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7485066,2.3559226,Parking Hôtel HILTON GARDEN INN PARIS ORLY AIRPORT (Couvert),4 place des Etats-Unis, 94150 Rungis,France,6430,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.899316,2.2360703,Parking Immeuble 41 AVENUE PUVIS DE CHAVANNES (Couvert),41 avenue Puvis de Chavanne, 92400 Courbevoie,France,6715,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.5852494,7.7452595,Parking Hôtel SOFITEL STRASBOURG GRANDE ÎLE (Couvert),4 Place Saint-Pierre le Jeune, 67000 Strasbourg,France,3080,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4368574,8.5716218,Parking Hôtel HILTON ZURICH AIRPORT (Extérieur),Hohenbühlstrasse 10, 8152 Opfikon,Suisse,4782,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.5449302,7.5994328,Parking Hôtel NOVOTEL BASEL CITY (Couvert),Grosspeterstrasse 12, 4052 Basel,Suisse,4835,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.9212295,2.3629976,Parking Hôtel IBIS SAINT-DENIS STADE SUD (Extérieur),Rue de la Cokerie Av Francis Pressense, 93210 La Plaine-Saint-Denis,France,3138,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6138163,1.3964382,Parking Hôtel IBIS TOULOUSE PURPAN (Extérieur),1 rue Jean Viollis, 31300 Toulouse,France,3537,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8925037,2.2316372,Parking Hôtel CITIZENM PARIS LA DÉFENSE (Couvert),30 rue des Longues Raies, 92000 Nanterre,France,4432,4lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -788,7 +741,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.2928298,4.0807715,Parking Hôtel IBIS STYLES TROYES CENTRE (Couvert),Rue Camille Claudel, 10000 Troyes,France,3399,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.754489,4.8340427,Parking Hôtel SOFITEL LYON BELLECOUR (Couvert),20 Quai Docteur Gailleton, 69002 Lyon,France,3082,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.7853102,3.1018903,Parking Hôtel NOVOTEL SUITES CLERMONT-FERRAND POLYDOME (Extérieur),52-54 Avenue de la Republique, 63100 Clermont-Ferrand,France,3697,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4407032,8.5680376,Parking Hôtel MÖVENPICK HOTEL ZÜRICH AIRPORT (Extérieur),Walter Mittelholzerstrasse 8, 8152 Opfikon,Suisse,5208,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.5707724,5.9187338,Parking Hôtel MERCURE CHAMBÉRY CENTRE (Couvert),51 avenue Maréchal Leclerc, 73000 Chambéry,France,3958,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 47.5854595,7.5621312,Parking Hôtel IBIS AÉROPORT BÂLE MULHOUSE (Couvert),17 Avenue du Gal de Gaulle, 68300 Saint-Louis,France,3069,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8834587,2.3817737,Parking Immeuble SAEMES MAIRIE DU 19ÈME (Couvert),Rue André Dubois, 75019 Paris,France,3586,4lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -799,15 +751,12 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.4074348,2.1160487,Parking Hôtel CAMPANILE BEAUVAIS (Extérieur),18 Avenue Descartes, 60000 Beauvais,France,3280,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.7798329,3.1010707,Parking Hôtel IBIS STYLES CLERMONT FERRAND GARE (Extérieur),53 Avenue de l'Union Soviétique, 63000 Clermont-Ferrand,France,6016,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7579877,2.3461544,Parking Hôtel MERCURE PARIS ORLY RUNGIS (Extérieur),rue Baltard, 94656 Rungis,France,51,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.958679,7.4641102,Parking Hôtel NOVOTEL BERN EXPO (Couvert),Guisanpl. 2, 3014 Bern,Suisse,4868,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7439446,2.4048736,Parking Immeuble LE HAMEAU D'ADRIEN RAYNAL (Couvert),34 AVENUE ADRIEN RAYNAL, 94310 Orly,France,5782,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 50.6464358,3.0093704,Parking Hôtel IBIS LILLE LOMME CENTRE (Couvert),576 Avenue de Dunkerque, 59160 Lomme Lez Lille,France,3140,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.8492263,4.3489595,Parking Hôtel MARRIOTT BOURSE GRAND PLACE BRUSSELS (Couvert),  Rue Paul Devaux 8 , 1000 Bruxelles,Belgique,6132,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6078054,3.8813597,Parking Hôtel IBIS STYLES MONTPELLIER CENTRE COMÉDIE (Couvert),17 ter rue Alfred Bruyas, 34000 Montpellier,France,3536,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6100775,3.8856355,Parking Hôtel IBIS MONTPELLIER CENTRE  (Couvert),Rue de Valençay, 34000 Montpellier,France,3038,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.7572627,2.3470187,Parking Hôtel B&B ORLY RUNGIS AÉROPORT (Extérieur),4 rue Mondetour, 94656 Rungis,France,3316,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.934578,2.303434,Parking Hôtel CAMPANILE PARIS OUEST - GENNEVILLIERS BARBANNIERS (Couvert),1 Avenue Marcel Paul - Parc d'Activités Barbanniers , 92230 Gennevilliers,France,3833,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.3824367,8.5406401,Parking Hôtel ZURICH MARRIOTT (Couvert),Neumühlequai 42, 8006 Zürich,Suisse,5345,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 47.583507,1.32217,Parking Hôtel IBIS STYLES BLOIS CENTRE GARE (Couvert),14 Avenue Gambetta, 41000 Blois,France,3100,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.7567055,4.8419599,Parking Hôtel CAMPANILE LYON CENTRE - BERGES DU RHÔNE (Couvert),4-6 Rue Mortier, 69003 Lyon,France,3505,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 46.2493582,6.1041032,Parking Hôtel F1 GENÈVE AÉROPORT FERNEY VOLTAIRE (Extérieur),Route de Meyrin, 1210 Ferney-Voltaire,France,5398,3lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -815,7 +764,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8792814,2.3379424,Parking Public 2 ROUES - GARAGE DE LA PLACE SAINT-GEORGES (Couvert),20 Rue Clauzel, 75009 Paris,France,14498,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8599478,2.4029961,Parking Immeuble 115 RUE DE BAGNOLET (Couvert),115 rue de Bagnolet, 75020 Paris,France,8756,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.1090193,-1.6772182,Parking Hôtel MERCURE RENNES CENTRE PARLEMENT (Couvert),1 Rue Paul Louis Courier, 35106 Rennes,France,3515,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4105439,8.5533189,Parking Hôtel HOLIDAY INN ZÜRICH MESSE (Couvert),Wallisellenstrasse 48, 8050 Zürich,Suisse,5562,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8972072,2.2360721,Parking Hôtel APARTHOTEL ADAGIO LA DEFENSE LE PARC (Couvert),1 rue des Lilas d'Espagne, 92400 Courbevoie,France,4638,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8561436,2.7450837,PARKING HÔTEL BEST WESTERN (Extérieur),Rue de la ferme du Pavillon, 77600 Chanteloup-en-Brie,France,3919,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8706045,2.3091347,Parking Public LE RELAIS DE PONTHIEU (Couvert),25 Rue de Ponthieu, 75008 Paris,France,6077,3lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -831,11 +779,9 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6046061,1.448301,Parking Hôtel MERCURE TOULOUSE CENTRE WILSON CAPITOLE (Couvert),7 rue Labeda, 31000 Toulouse,France,3101,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.2064471,2.3124956,Parking HOTEL PREMIÈRE CLASSE CARCASSONNE (Extérieur),155 Allée Gutenberg - Salvaza Les Graves , 11000 Carcassonne,France,4150,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.1708824,-0.348244,Parking Immeuble 13 B AVENUE ALBERT 1ER (Couvert),13 B avenue Albert 1er, 14000 Caen,France,6718,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.8238631,7.1499685,Parking Hôtel IBIS FRIBOURG (Couvert),21 Route du Lac, 1763 Granges-Paccot,Suisse,5180,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 44.833576,-0.670641,Parking Hôtel WOOD INN MÉRIGNAC (Extérieur),4 rue Thalès, 33700 Mérignac,France,3322,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6853916,7.2353983,Parking Hôtel RADISSON BLU NICE (Couvert),Rue Gustav Adolf Mossa, 6200 Nice,France,4427,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.5852928,7.744982,Parking Hôtel MERCURE STRASBOURG CENTRE (Couvert),Rue marbach, 67000 Strasbourg,France,3015,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4255227,8.5599646,Parking Hôtel NOVOTEL ZÜRICH AIRPORT (Couvert),Lindbergh-Platz 1, 8152 Opfikon,Suisse,4659,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.605758,1.4503135,Parking Hôtel CASTELLANE (Couvert),17 Rue Castellane, 31000 Toulouse,France,3097,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6262859,1.3813751,Parking Hôtel F1 TOULOUSE AÉROPORT HÔTEL (Extérieur),1 Avenue Didier Daurat, 31700 Blagnac,France,5187,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.5608123,7.693188,Parking Hôtel IBIS STRASBOURG AÉROPORT LE ZÉNITH (Couvert),2 rue du maréchal foch, 67380 Lingolsheim,France,3049,2lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -843,7 +789,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.097612,2.515095,Parking Hôtel NOVOTEL ROISSY SAINT-WITZ (Extérieur),Route de Survilliers, 95470 Survilliers,France,3194,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.0005433,0.1967731,Parking Hôtel CONCORDIA LE MANS CENTRE GARE (Couvert),14 avenue du Général Leclerc, 72000 Le Mans,France,3220,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.7532025,4.8330284,Parking Public GARAGE BELLECOUR (Couvert),5 place Gailleton, 69002 Lyon,France,3093,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.2142011,6.1351556,Parking Hôtel IBIS GENÈVE CENTRE NATIONS (Couvert),Rue du Grand-Pré 33-35, 1201 Genève,Suisse,3254,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 50.6325273,3.06782,Parking Hôtel IBIS STYLES LILLE CENTRE GARE BEFFROI (Extérieur),172 rue de Paris, 59000 Lille,France,3580,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.877072,2.3456572,Parking Immeuble SAEMES MAYRAN (Couvert),5 rue mayran, 75009 Paris,France,3584,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6105254,1.4517047,Parking Hôtel GRAND HOTEL D'ORLÉANS (Couvert),14 Rue Lafon, 31000 Toulouse,France,5197,2lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -857,9 +802,7 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.0083985,2.5488521,Parking Hôtel COURTYARD & RESIDENCE INN PARIS CDG AIRPORT (Couvert),10 rue du voyageur, 95700 Roissy-en-France,France,11528,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8406798,2.23519,Parking Hôtel LE PARCHAMP PARIS BOULOGNE (Couvert),46 Rue de Billancourt, 92100 Boulogne-Billancourt,France,6098,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 44.8357482,-0.6897008,Parking Hôtel BRIT HOTEL BORDEAUX AÉROPORT - LE SORETEL (Extérieur),97 Avenue John Fitzgerald Kennedy, 33700 Mérignac,France,3055,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.561662,7.597713,Parking Hôtel APARTHOTEL ADAGIO BASEL CITY (Couvert),Hammerstrasse 46 , 4058 Basel,Suisse,5142,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8289273,2.3741897,Parking Hôtel IBIS STYLES PARIS TOLBIAC BIBLIOTHÈQUE (Couvert),21 Rue de Tolbiac, 75013 Paris,France,3078,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4958696,8.711847,Parking Hôtel IBIS WINTERTHUR CITY (Extérieur),Brühlbergstrasse 7, 8400 Winterthur,Suisse,5046,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8968013,2.4037287,Parking Hôtel IBIS BUDGET PARIS PORTE DE PANTIN (Extérieur),96-98 avenue du Général Leclerc, 93500 Pantin,France,3296,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6564282,1.3685801,Parking Hôtel RÉSIDENCE INN BY MARRIOTT (Couvert),45 rue max fischl, 31700 Blagnac,France,5451,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 49.0089966,2.5614682,Parking Hôtel NOVOTEL PARIS CHARLES DE GAULLE AIRPORT (Extérieur),rue de Dublin, 93290 Tremblay-en-France,France,52,1lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -868,9 +811,6 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.652945,0.1649896,Parking Hôtel BRIT HOTEL TERMINUS (Extérieur),1 place de la gare, 16000 Angoulême,France,3513,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.6269955,1.3803698,Parking Hôtel CAMPANILE TOULOUSE - BLAGNAC AÉROPORT (Extérieur),3 Avenue Didier Daurat, 31700 Blagnac,France,3403,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 44.8346037,-0.6811922,Parking Hôtel NOVOTEL BORDEAUX AÉROPORT (Extérieur),80 Avenue John Fitzgerald Kennedy, 33700 Mérignac,France,4522,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.8297307,4.3560818,Parking Hôtel IBIS STYLES BRUSSELS CENTRE STEPHANIE (Couvert),Chaussée de Charleroi 68, 1060 Bruxelles,Belgique,5125,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.4387328,8.5630707,Parking Hôtel IBIS BUDGET ZÜRICH AIRPORT (Couvert),Flughofstrasse 45, 8152 Glattbrugg Opfikon,Suisse,4767,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.8352535,4.3381608,Parking Hôtel PARK INN BRUSSELS MIDI (Couvert),Rue de Hollande 4 , 1060 Bruxelles,Belgique,4758,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.756452,4.8266992,Parking Public PARC TILSITT GARAGE MAJESTIC (Couvert),18 quai Tilsitt, 69002 Lyon,France,3091,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 44.8327596,-0.670671,Parking Hôtel KYRIAD BORDEAUX OUEST MERIGNAC AEROPORT (Extérieur),3 Rue Euler, 33700 Mérignac,France,3233,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 44.8294848,-0.5589877,Parking Hôtel NOVOTEL BORDEAUX CENTRE GARE SAINT-JEAN (Couvert),34 rue de Tauzia, 33800 Bordeaux,France,3216,1lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -886,81 +826,53 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 47.9940368,-4.0929946,Parking Hôtel MERCURE QUIMPER GARE (Couvert),21 bis Avenue de la Gare, 29000 Quimper,France,5407,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.892015,2.3847832,Parking Hôtel IBIS PARIS LA VILLETTE CITÉ DES SCIENCES 19ÈME (Couvert),31-35 Quai de l'Oise, 75019 Paris,France,3198,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.611179,1.4314432,Parking Hôtel NOVOTEL TOULOUSE CENTRE COMPANS CAFFARELLI (Couvert),5 Place Alfonse Jourdain, 31000 Toulouse,France,3168,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.5467837,7.5848418,Parking Hôtel IBIS BASEL BAHNHOF (Couvert),Margarethenstrasse 33-35, 4053 Basel,Suisse,4793,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8659982,2.2724171,Parking Immeuble SAEMES FLANDRIN (Extérieur),face au 2 boulevard Flandrin, 75016 Paris,France,3806,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.1793585,6.138237,Parking Hôtel IBIS STYLES GENÈVE CAROUGE (Couvert),Route de Saint-Julien 3, 1227 Carouge,Suisse,5184,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8582341,2.3190721,Parking Immeuble SAEMES CHAMPAGNY (Couvert),13 rue Casimir Périer, 75007 Paris,France,4160,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 47.2068364,-1.5478099,Parking Hôtel NOVOTEL NANTES CENTRE BORD DE LOIRE (Couvert),1 Boulevard des Martyrs Nantais de la Résistance , 44200 Nantes,France,3214,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.7578064,4.8582602,Parking Hôtel IBIS LYON GARE LA PART-DIEU (Couvert),59 rue Desaix 69003 Lyon, 69003 Lyon,France,2896,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.3027833,5.3818842,Parking Hôtel IBIS CENTRE GARE MARSEILLE SAINT CHARLES (Extérieur),Avenue Pierre Sémard, 13001 Marseille,France,8954,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-46.2277996,6.0858207,Parking Hôtel NH GENEVA AIRPORT HOTEL (Couvert),Avenue de Mategnin 21, 1217 Meyrin,Suisse,4343,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.829307,2.299004,Parking Hôtel IBIS PARIS BRANCION PARC DES EXPOSITIONS 15EME (Couvert),135 Boulevard Lefebvre, 75015 Paris,France,5116,0lat,lon,Parking name, Adresse, OnePark ID, Spots
-47.0435677,8.3113226,Parking Hôtel IBIS BUDGET LUZERN CITY (Couvert),Kellerstrasse 6, 6005 Luzern,Suisse,5144,0lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8316828,2.3572841,Parking Hôtel INN (Couvert),17 rue godefroy, 75013 Paris,France,6090,0lat,lon,Parking name, Adresse, OnePark ID, Spots
 48.8383411,2.2905024,Parking Hôtel MERCURE PARIS 15 PORTE DE VERSAILLES (Couvert),6 rue Saint Lambert, 75015 Paris,France,3259,0lat,lon,Parking name, Adresse, OnePark ID, Spots
 45.9027393,6.1223844,Parking Hôtel NOVOTEL ANNECY CENTRE ATRIA (Couvert),1 Avenue Berthollet, 74000 Annecy,France,3201,0lat,lon,Parking name, Adresse, OnePark ID, Spots
 42.3269582,-7.8584483,Parking Public HOSPITAL SANTA MARIA NAI (Couvert),Rúa Ramón Puga 54, 32005 Ourense,Espagne,4199,100lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4492693,-3.5483531,Parking Hôtel AP MADRID AEROPUERTO HOTEL & PARKING (Extérieur),Cam. Aeropuerto 22, 28042 Madrid,Espagne,8426,100lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.7980177,12.2967298,Parking Discount PARK 51 (Extérieur),Viale Donato Bramante snc, 54 Fiumicino,Italie,6432,50lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.4713881,-0.3799484,Parking Public AVENIDA DEL OESTE (Couvert),Avenida del Oeste 34, 46001 Valencia,Espagne,4359,47lat,lon,Parking name, Adresse, OnePark ID, Spots
-37.0333761,-7.9506872,Parking Hôtel HOTEL IBIS FARO ALGARVE (Extérieur),Rua Antonio Aleixo 204, 8005-174 Faro,Portugal,5082,40lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3267339,2.040419,Parking Public VICTORIA PARKING (Extérieur),Carrer de Múrcia 37, 8830 Sant Boi de Llobregat,Espagne,3719,40lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4202829,-3.6955707,Parking Public APK PLAZA DEL REY (Couvert),C/ Barquillo 8, 28004 Madrid,Espagne,4148,39lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.5159925,9.2119777,Parking Public BICOCCA P7 (Couvert),Via Vizzola 2, 20126 Milano,Italie,5638,38lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.401336,-3.6871608,Parking Hôtel RAFAELHOTELES ATOCHA (Couvert),Calle de Méndez Álvaro 30, 28045 Madrid,Espagne,3599,38lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.3900802,-5.9743343,Parking Public EL MIRADOR DE SANTA JUSTA (Couvert),Avenida de Kansas City 32, 41007 Sevilla,Espagne,4220,33lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4474576,9.2576885,Parking Hôtel NOVOTEL MILANO LINATE (Extérieur),VIA MECENATE 121, 20138 Milano,Italie,4639,30lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.3741077,-5.9766664,Parking Public INSUR (Couvert),Calle Pirotecnia 19, 41013 Sevilla,Espagne,4225,29lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3633993,2.1340307,Parking Hôtel HYATT REGENCY BARCELONA TOWER (Couvert),Avinguda de la Granvia 144, 8907 Barcelona,Espagne,3558,27lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3816011,2.1489782,Parking Public CENTRAL PARKING (Couvert),Carrer de Valencia 70, 8015 Barcelona,Espagne,4812,24lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.4051839,-6.0068502,Parking Public CARTUJA (Couvert),Calle Louis Braille s/n, 41092 Sevilla,Espagne,4216,24lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3803667,2.1661887,Parking Public RAVAL RIERA  ALTA (Couvert),Carrer de la Riera Alta 23, 8001 Barcelona,Espagne,4205,21lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.5266357,10.219414,Parking Hôtel NOVOTEL BRESCIA 2 (Couvert),Via Pietro Nenni 22, 25124 Brescia,Italie,4811,20lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.3639938,-5.8433521,Parking Public JOVELLANOS 27 (Couvert),Calle Jovellanos 27, 33003 Oviedo,Espagne,4198,20lat,lon,Parking name, Adresse, OnePark ID, Spots
 28.0647108,-17.2548183,Parking Public APK2 APARCAMIENTO WEYLER (Couvert),Avda. General Guimera 45605, 38003 Santa Cruz de Tenerife,Espagne,4153,20lat,lon,Parking name, Adresse, OnePark ID, Spots
-52.3088,4.8107283,Parking Hôtel STEIGENBERGER HOTEL AIRPORT (Couvert),Stationsplein Zuid-West 951, 1117 CE  Schiphol,Pays-Bas,4334,19lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.3098343,-2.0086273,Parking Public ONDARRETA (Couvert),Bajo la Plaza Julio Caro Baroja nº 1 y 2, 20018 San Sebastian,Espagne,5654,19lat,lon,Parking name, Adresse, OnePark ID, Spots
 36.6742962,-4.4855464,Parking Public PEDROCAR ECO (Couvert),Avenida Comandante Garcia Morato 64, 29004 Málaga,Espagne,4994,19lat,lon,Parking name, Adresse, OnePark ID, Spots
 42.2362424,-8.7192975,Parking Public APARCAMIENTO EL DORADO (Couvert),Rúa Uruguay 8, 36201 Vigo,Espagne,4257,19lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.7728298,12.238931,Parking Hôtel MERCURE ROME LEONARDO DA VINCI AIRPORT (Extérieur),Via Portuense 2470, 54 Roma,Italie,5583,19lat,lon,Parking name, Adresse, OnePark ID, Spots
-52.3333649,4.7716813,Parking Hôtel RAMADA AMSTERDAM AIRPORT SCHIPHOL (Extérieur),Sloterweg 299, 1171 VB Badhoevedorp,Pays-Bas,4188,18lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3763788,2.1513924,Parking Public ONCE (Couvert),Gran Via de les Corts Catalanes 400, 8015 Barcelona,Espagne,3665,18lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.1749913,-3.606569,Parking Public SÓCRATES GRANADA (Couvert),Calle Sócrates esquina Trajano, 18002 Granada,Espagne,5774,18lat,lon,Parking name, Adresse, OnePark ID, Spots
-51.3379124,6.8688536,Parking Hôtel LANDHOTEL KRUMMENWEG (Extérieur),Am Krummenweg 3-5, 40885 Ratingen,Allemagne,5299,18lat,lon,Parking name, Adresse, OnePark ID, Spots
 36.6742962,-4.4855464,Parking Public PEDROCAR ECO (Extérieur),Avenida Comandante Garcia Morato 64 Local 1-8, 29004 Málaga,Espagne,4998,18lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3796369,2.1431668,Parking Hôtel EXPO HOTEL BARCELONA (Couvert),Calle Tarragona 177, 8014 Barcelona,Espagne,9845,16lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3302885,2.0496153,Parking Hôtel FRONTAIR CONGRESS BARCELONA (Couvert),Carrer de les Alberedes 16, 8830 Sant Boi de Llobregat,Espagne,3561,15lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4399677,-3.6995037,Parking Public GARAJE PREMIER PONZANO (Couvert),Calle de Ponzano 37, 28003 Madrid,Espagne,3663,15lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4444811,9.1656549,Parking Public GARAGE CASSALA MILANO (Couvert),Viale Cassala 57, 20143 Milano,Italie,5732,15lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4529795,9.1845677,Parking Public GARAGE GIANGALEAZZO (Couvert),Via Aurispa 7, 20122 Milano,Italie,5517,15lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4873456,9.1648113,Parking Public AUTORIMESSA CENISIO (Couvert),Via Cenisio 43, 20154 Milano,Italie,5724,15lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4886457,9.1638909,Parking Public GARAGE GOVONE S.R.L (Couvert),Via Mac Mahon 9, 20155 Milano,Italie,5731,15lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.9902839,2.788469,Parking Hôtel EDEN PARK (Extérieur),Autopista AP7 Salida 8, Girona,Espagne,5153,15lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4540411,9.2039792,Parking Public PARCHEGGI MILANESI (Couvert),Viale Monte Nero 16, 20135 Milano,Italie,5727,15lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.3780274,-6.0010983,Parking Public INSUR BUENOS AIRES (Couvert),Av. de la República Argentina 21, 41011 Sevilla,Espagne,3936,15lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.0376136,8.4775683,Parking Hôtel STYLES FRANKFURT AIRPORT (Couvert),Isarstrasse 6, 65451 Kelsterbach,Allemagne,5127,15lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.505976,9.196426,Parking Hôtel IBIS MILANO NORD CA GRANDA (Couvert),Viale Giovanni Suzzani 13, 20162 Milano,Italie,4863,15lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4019381,2.1765899,Parking Public MANHATTAN (Couvert),Carrer d'Aragó 425, 8013 Barcelona,Espagne,3533,15lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4761946,9.1602607,Parking Public GARAGE FIERA (Couvert),Viale Cassiodoro 26, 20145 Milano,Italie,5734,15lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4420976,-3.6781305,Parking Public PRÍNCIPE DE VERGARA 126 (Couvert),Calle Príncipe de Vergara 126, 28002 Madrid,Espagne,3608,14lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.4665608,-0.3245012,Parking Hôtel BALNEARIO LAS ARENAS (Couvert),Eugenia Viñes 22 – 24, 46011 Valencia,Espagne,4279,14lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3794415,2.1672901,Parking Public EL NOU RAVAL (Couvert),Carrer de l'Hospital 141, 8001 Barcelona,Espagne,4158,13lat,lon,Parking name, Adresse, OnePark ID, Spots
-48.2828333,11.5684449,Parking Hôtel VICTOR'S RESIDENZ-HOTEL MÜNCHEN (Couvert),Keplerstraße 14, 85716 Unterschleißheim,Allemagne,4768,13lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.505976,9.196426,Parking Hôtel NOVOTEL MILANO NORD CA GRANDA (Couvert),Viale Giovanni Suzzani 13, 20162 Milano,Italie,4862,13lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.4576294,-0.3758225,Parking Hôtel SENATOR PARQUE CENTRAL (Couvert),Carrer de les Filipines 39, 46006 València,Espagne,4103,13lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.0535948,8.5231481,Parking Hôtel MOXY FRANKFURT AIRPORT KELSTERBACH (Extérieur),Am Weiher 1, 65451 Kelsterbach,Allemagne,5741,13lat,lon,Parking name, Adresse, OnePark ID, Spots
-43.7976368,11.2154179,Parking Hôtel B&B HOTEL FIRENZE NOVOLI (Extérieur),Viale Alessandro Guidoni 101, 50127 Firenze,Italie,5637,12lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4048982,2.1770769,Parking Public BOND SAGRADA FAMILIA (Couvert),Carrer de Mallorca 423, 8013 Barcelona,Espagne,3694,11lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3948917,2.1644418,Parking Public BLUE LAND FINANCIA (Couvert),Carrer de Pau Claris 162, 8037 Barcelona,Espagne,7337,11lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.6004249,2.2883022,Parking Public COLOM (Couvert),Passeig Cristòfol Colom 21, 8402 Granollers,Espagne,3942,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7400011,-9.1478264,Parking Public PARKIN BARBOSA DU BOCAGE (Couvert),Av. Barbosa du Bocage 85, 1069-424 Lisboa,Portugal,4900,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.5063642,2.5324442,Parking Public MOMENTUM PLAZA (Couvert),Avinguda de l’Olivera 4, 7181 Calvià,Espagne,5054,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-52.5027332,13.344621,Parking Hôtel IBIS BERLIN KURFÜRSTENDAMM (Extérieur),Bayreuther Str. 39, 10787 Berlin,Allemagne,5364,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 38.3419162,-0.4949788,Parking Public CARLET (Couvert),Carrer Carlet 2 y 3, 3007 Alicante,Espagne,5652,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3910696,2.1415508,Parking Hôtel MELIÁ BARCELONA SARRIÀ - APK2 - Tarif par Heure (Couvert),Carrer Fra Luis de Granada 2, 8029 Barcelona,Espagne,7966,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3913696,2.1428377,Parking Hôtel MELIÁ LORETO - APK2 - Tarif par Heure (Couvert),Carrer de Loreto 46, 8029 Barcelona,Espagne,7968,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 42.2311778,-8.7029698,Parking Public GARAJE AVENIDA VIGO (Couvert),Rúa de Urzáiz 209, 36201 Vigo,Espagne,4218,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4407738,9.2205268,Parking Public OFFICINA OGLIO (Couvert),Via Oglio 5, 20139 Milano,Italie,5628,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.5692597,2.5284499,Parking Public CALDETES PLAYA (Couvert),Passeig de les Moreres s/n, 8393 Caldes d'Estrac,Espagne,9317,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3085069,2.0010192,Parking Public MERCAGAVÀ (Couvert),Avinguda Joan XXIII S/N, 8850 Gavà,Espagne,4106,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4468878,-3.664696,Parking Public GARAJE PUEBLA (Couvert),Calle del Padre Claret 13, 28002 Madrid,Espagne,5188,10lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -971,45 +883,29 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3755143,2.141938,Parking Public PL. JOAN PELEGRÍ (Couvert),C/ Llobet 1, 8014 Barcelona,Espagne,4115,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4851453,-3.3649897,Parking Public TALAMANCA (Couvert),C. del Ángel 4, 28807 Alcalá de Henares,Espagne,8261,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3948819,2.156906,Parking Public OFYDE (Couvert),Carrer de Córsega 299, 8008 Barcelona,Espagne,6035,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.1385384,10.041314,Parking Hôtel B&B HOTEL CREMONA (Couvert),Via Antiche Fornaci 70, 26100 Cremona,Italie,5646,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.3572021,-5.8423478,Parking Public EL CARBONERO (Couvert),Calle Padre Suárez 27, 33009 Oviedo,Espagne,4157,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4563898,9.207214,Parking Public GARAGE MAFFEI (Couvert),Via  Andrea Maffei 19, 20135 Milano,Italie,5625,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 38.8786253,-6.9770274,Parking Hôtel SERCOTEL GRAN HOTEL ZURBARAN (Couvert),Calle Gómez de Solís 1, 6001 Badajoz,Espagne,4423,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7266354,-9.1556908,Parking Hôtel INTERCONTINENTAL LISBON (Couvert),Rua Castilho 149, 1099-034 Lisboa,Portugal,5256,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 42.2356991,-8.7230527,Parking Public PROGRESO (Couvert),Rua do Progreso s/n, 36202 Vigo,Espagne,5600,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.8891018,12.5231755,Parking Public GARAGE PIGNETO (Couvert),Piazza del Pigneto 9A, 176 Roma,Italie,5701,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-52.3087366,13.4458669,Parking Hôtel VAN DER VALK HOTEL BERLIN BRANDENBURG (Extérieur),Eschenweg 18, 15827 Blankenfelde-Mahlow,Allemagne,4911,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.9004731,12.4948134,Parking Public EURO PARKING (Couvert),VIA NAPOLI 66, 184 Roma,Italie,5699,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.9900388,-1.1167194,Parking Hôtel SANTOS NELVA (Couvert),Av. Primero de Mayo 5, 30006 Murcia,Espagne,4934,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.8879531,12.4949059,Parking Public PARK COLOSSEO (Couvert),Via Ostilia 48, 184 Roma,Italie,5704,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4059053,2.1915482,Parking Immeuble CENTRO COMERCIAL GLORIES (Couvert),Carrer de la Llacuna 155, 8018 Barcelona,Espagne,8921,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 42.8852883,-8.5129848,Parking Hôtel OCA PUERTA DEL CAMINO (Couvert),C/ Miguel Ferro Caaveiro s/n, 15707 Santiago de Compostela,Espagne,4052,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.1716516,-3.6036966,Parking Public REX GRANADA (Couvert),Calle Recogidas 38, 18002 Granada,Espagne,5824,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3883837,2.1731025,Parking Public VIA LAIETANA 66 (Couvert),Via Laietana 66, 8010 Barcelona,Espagne,6416,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3516355,2.1248694,Parking Hôtel FIRA CONGRESS BARCELONA (Extérieur),Calle de José Agustín Goytisolo 45605, 8908 L'Hospitalet de Llobregat,Espagne,3610,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1615745,-8.6010918,Parking Public GARAGEM DAVID E FILHOS (Couvert),Rua da Constituição 238, 4200-192 Porto,Portugal,4984,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1621495,-8.605973,Parking Public PARQUE DA CONSTITUIÇÃO (Couvert),Rua da Constituição 666, 4200-194 Porto,Portugal,4982,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4349696,-3.6923168,Parking Public GENERAL MARTINEZ CAMPOS (Couvert),Paseo del General Martínez Campos 42 Duplicado, 28010 Madrid,Espagne,5601,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4219401,-3.6764081,Parking Public O'DONNELL 33 (Couvert),Calle de O'Donnell 33, ,Espagne,4033,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7498732,-9.2060715,Parking Hôtel HOTEL VIP INN BERNA (Couvert),Avenida António de Serpa 13, 1069-199 Lisboa,Portugal,5033,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4815499,9.1887872,Parking Public THE BIG PARKING (Couvert),Via Carlo de Cristoforis 6/8, 20124 Milano,Italie,5621,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.3960604,-3.6931846,Parking Public JUAN DE VERA (Couvert),Calle Juan De Vera 6, 28045 Madrid,Espagne,4895,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4202829,-3.6955707,Parking Public APK PLAZA DEL REY Tarif par Heure (Couvert),Calle Barquillo 8, 28004 Madrid,Espagne,7436,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4173827,-3.6728215,Parking Public MAIQUEZ 21 HOSPITAL GREGORIO MARAÑON - Tarifé d'Heur (Couvert),Calle Maiquez 21, 28009 Madrid,Espagne,7931,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.435743,-3.6855007,Parking Public GALGOS SERRANO (Couvert),Calle de Claudio Coello 139, 28006 Madrid,Espagne,4930,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4870991,9.2117593,Parking Public GRAN GARAGE MARZIANO (Couvert),Via Venini 14, 20125 Milano,Italie,5322,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4909904,9.2048482,Parking Public SANTA CROCE PARKING (Couvert),Via Copernico 40, 20125 Milano,Italie,4927,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 36.5067077,-6.2787834,Parking Public NINO (Couvert),Paseo Maritimo 3, 11010 Cadiz,Espagne,5863,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4710003,-3.5798852,Parking Hôtel CLEMENT BARAJAS (Couvert),Av. General 43, 28042 Madrid,Espagne,3775,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.4587377,-0.3836825,Parking Public PARKING AVE VALENCIA ESTACIÓN (Couvert),Carrer de Sant Vicent Màrtir 204, 46007 Valencia,Espagne,5607,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4188519,-3.7009215,Parking Public JARDINES 16 MADRID (Couvert),Calle Jardines 16, 28013 Madrid,Espagne,4258,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.6495692,-0.8812995,Parking Public SAN CLEMENTE (Couvert),Calle Felipe Sanclemente 45573, 50001 Zaragoza,Espagne,4066,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-52.3372774,4.8165766,Parking Hôtel MERCURE AMSTERDAM WEST (Extérieur),Oude Haagseweg 20, 1066 BW Amsterdam,Pays-Bas,5079,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4009989,2.1944154,Parking Hôtel IBIS BARCELONA PLAZA GLÒRIES 22 (Couvert),Carrer de la Ciutat de Granada 99, 8018 Barcelona,Espagne,3582,10lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3784547,2.160329,Parking Public TAMARIT (Couvert),Carrer de Tamarit 159, 8015 Barcelona,Espagne,4084,10lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4844167,9.210122,Parking Public CRISTAL PARKING GARAGE (Couvert),Via Franchino Gaffurio 6, 20124 Milano,Italie,5223,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3953429,2.1563439,Parking Public DIAGONAL 403 (Couvert),Avinguda Diagonal 403, 8008 Barcelona,Espagne,5072,9lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.453801,9.1829393,Parking Public PARKING DELLE BASILICHE (Couvert),Via Calatafimi 10, 20122 Milano,Italie,5639,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4531316,-3.6959204,Parking Public CAPORAL PRESIDENTE CARMONA (Couvert),General Perón 19, 28020 Madrid,Espagne,3805,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4112693,2.1777546,Parking Public GARATGE CARLES (Couvert),Passatge de la Independencia 17-19, 8026 Barcelona,Espagne,4860,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4089704,2.1558685,Parking Public MASSENS I GÜELL (Couvert),Carrer de Massens 73, 8024 Barcelona,Espagne,5066,9lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -1021,137 +917,76 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4195957,-3.709816,Parking Public PALACIO DE LOS DUQUES (Couvert),Cuesta de Santo Domingo 5, 28013 Madrid,Espagne,4922,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.6478019,-0.8902567,Parking Public HERNÁN CORTES (Couvert),calle Hernán Cortés 31, 50005 Zaragoza,Espagne,4234,9lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4699095,-3.6845731,Parking Hôtel BARCELÓ IMAGINE (Couvert),Calle de Manuel Ferrero 19 bis, 28036 Madrid,Espagne,4734,8lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.754239,-9.1815543,Parking Hôtel UPON LISBON RESIDENCES (Couvert),R. Luciana Stegagno Picchio 12, 1549-023 Lisboa,Portugal,4951,8lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.4711491,-0.3923301,Parking Public GARAJE ASPAS (Couvert),Carrer del Literat Gabriel Miró 61, 46008 Valencia,Espagne,4433,8lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.257833,-2.9356387,Parking Hôtel IBIS BILBAO CENTRO (Couvert),Calle General Concha 28, 48010 Bilbao,Espagne,6083,7lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4628262,9.1982208,Parking Public GARAGE SFORZA (Couvert),Via Sforza 4, 20122 Milano,Italie,5309,7lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4647104,9.169838,Parking Public ZENALE (Couvert),Via Bernardino Zenale 6, 20123 Milano,Italie,6017,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.8955634,2.7747747,Parking Hôtel SALLÉS HOTELS AEROPORT GIRONA (Extérieur),N-156, 17457 Riudellots de la Selva,Espagne,3823,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.5388456,-3.6117445,Parking Hôtel B&B HOTEL MADRID AEROPUERTO T4 (Couvert),Calle Luis Pasteur s/n, 28703 San Sebastián de los Reyes,Espagne,3465,7lat,lon,Parking name, Adresse, OnePark ID, Spots
-52.5313677,13.345805,Parking Hôtel MERCURE HOTEL MOA BERLIN (Couvert),Birkenstrasse 21, 10559 Berlin,Allemagne,5119,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4063028,-3.7215816,Parking Hôtel NH RIBERA DEL MANZANARES (Couvert),Paseo de la Virgen del Puerto 57, 28005 Madrid,Espagne,4587,7lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.660728,-0.9066093,Parking Hôtel HOTEL ZENTRAL AVE ZARAGOZA (Couvert),Calle Berna 13, 50003 Zaragoza,Espagne,5481,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 36.7098216,-4.432237,Parking Hôtel EUROSTARS MÁLAGA (Couvert),Calle Héroe de Sostoa 17, 29002 Málaga,Espagne,4340,6lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7428804,-9.1503286,Parking Hôtel HOTEL VIP EXECUTIVE ZURIQUE (Couvert),Rua Ivone Silva 18, 1050-124 Lisboa,Portugal,5059,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.4725583,-0.4928711,Parking Hôtel XON´S (Couvert),Avda. Comarques del Pais Valencià 151, 46930 Quart de Poblet,Espagne,4301,6lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3902072,2.1977999,Parking Public CENTRE DE LA VILA (Couvert),Carrer de Rosa Sensat 4, 8005 Barcelona,Espagne,4214,6lat,lon,Parking name, Adresse, OnePark ID, Spots
-53.5482745,10.0093784,Parking Hôtel IBIS HAMBURG CITY (Couvert),Amsinckstraße 3, 20097 Hamburg,Allemagne,5518,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3896248,2.160693,Parking Public GARATGE CONDAL (Couvert),Plaza del Doctor Letamendi 26, 8007 Barcelona,Espagne,4946,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.400769,2.1724972,Parking Hôtel IBIS BARCELONA CENTRO SAGRADA FAMILIA (Couvert),Carrer de Nàpols 230, 8013 Barcelona,Espagne,3766,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.451395,-0.3584417,Parking Hôtel HOLIDAY INN EXPRESS VALENCIA-CIUDAD LAS CIENCIAS (Extérieur),Escritor Rafael Ferreres 22, 46013 Valencia,Espagne,4347,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3946531,2.162478,Parking Hôtel ROYAL PASSEIG DE GRÀCIA (Couvert),Passeig de Gràcia 84, 8008 Barcelona,Espagne,4710,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1612004,-8.6279299,Parking Public PARQUE CAPITÓLIO (Couvert),Avenida de França 226, 4050-276 Porto,Portugal,5429,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-52.3708614,4.8956407,Parking Hôtel SOFITEL LEGEND THE GRAND AMSTERDAM (Extérieur),Oudezijds Voorburgwal 197, 1012 EX Amsterdam,Pays-Bas,5440,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.3342433,-3.8539591,Parking Hôtel IBIS BUDGET MADRID ALCORCÓN MÓSTOLES (Extérieur),Travesía de Móstoles 3, 28922 Móstoles,Espagne,5548,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1514986,-8.6012002,Parking Public LEGUAS ON WHEELS (Couvert),Rua Ancelmo Braancamp 43, 4000-175 Porto,Portugal,5630,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.6866138,9.665297,Parking Hôtel B&B HOTEL BERGAMO (Extérieur),Via Magrini snc, 24126 Bergamo,Italie,5645,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 38.5378348,-0.1286232,Parking Hôtel BRISTOL BENIDORM (Couvert),Plaza Doctor Fleming 2, 3501 Benidorm,Espagne,5648,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 38.5429538,-0.116622,Parking Hôtel MARINA BENIDORM (Couvert),Avenida de Cuenca 28, 3503 Benidorm,Espagne,5695,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4803747,9.1236963,Parking Hôtel B&B HOTEL MILANO SAN SIRO (Couvert),Via Achille 4, 20151 Milano,Italie,5776,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 38.3707879,-0.4574237,Parking Hôtel DANIYA ALICANTE (Extérieur),Av. de Denia 133, 3015  Alicante,Espagne,3999,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4395089,9.2228026,Parking Public CORVETTO PARKING CAR (Couvert),Via Polesine 31, 20139 Milano,Italie,5370,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4311089,-3.6304307,Parking Public GARAJE SAN BLAS (Couvert),Calle de Emilio Muñoz 13, 28037 Madrid,Espagne,5003,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4053793,-3.6788829,Parking Public NARCISO SERRA (Couvert),Calle de Narciso Serra 13, 28007 Madrid,Espagne,4893,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 42.2394321,-8.7102799,Parking Public PARKING VIGO (Couvert),Rúa do Areal 142, 36201 Vigo,Espagne,6007,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4089652,-3.6759457,Parking Public ATOCHA RETIRO REYES MAGOS (Couvert),Plaza de los Reyes Magos, 28007 Madrid,Espagne,5876,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.6466025,-4.7227717,Parking Public MERCADO CAMPILLO (Couvert),Calle de Panaderos, 47004 Valladolid,Espagne,5767,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.8938483,12.515019,Parking Public AUTORIMESSA BRUZI (Couvert),via dei bruzi 11A, 185 Roma,Italie,5703,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4541023,-3.6782436,Parking Hôtel HOSTEL BOUTIQUE ROISA (Couvert),Calle de Serrano 236, 28016 Madrid,Espagne,5444,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1518775,-8.6278253,Parking Public CENTRAL PARK PORTO (Couvert),Rua da Piedade 71, 4050-479 Porto,Portugal,4892,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 36.6824738,-4.4682633,Parking Hôtel CAMPANILE MÁLAGA AIRPORT (Extérieur),Calle Pizarra 1, 29004 Málaga,Espagne,4398,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.865236,-4.020663,Parking Hôtel ZENTRAL MAYORAL (Couvert),Av. Castilla la Mancha 3, 45003 Toledo,Espagne,4529,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.457902,-3.5833973,Parking Hôtel SERCOTEL MADRID AEROPUERTO (Couvert),Calle Galeón 25, 28042 Madrid,Espagne,4100,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.8678851,12.4863936,Parking Public AUTORIMESSA TROIANO 2 (Couvert),Via Prospero Alpino 74, 154 Roma,Italie,5706,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3516355,2.1248694,Parking Hôtel FIRA CONGRESS BARCELONA (Couvert),Calle de José Agustín Goytisolo 45605, 8908 L'Hospitalet de Llobregat,Espagne,3607,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.4071487,-3.8421918,Parking Hôtel SERCOTEL LOS ÁNGELES (Extérieur),San Camilo 1, 39613 Guarnizo,Espagne,4532,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3774028,2.1682083,Parking Public PARKING CARRETAS 45 (Couvert),Carrer de les Carretes 45, 8001 Barcelona,Espagne,4829,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4007393,2.1669884,Parking Public SUB-WAY (Couvert),Carrer del Rosselló 337, 8037 Barcelona,Espagne,3943,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.5269801,9.2294935,Parking Hôtel B&B HOTEL MILANO SESTO-MARELLI (Couvert),Viale Ercole Marelli 303, 20099 Sesto San Giovanni,Italie,5644,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4445038,-3.6715387,Parking Public LUÍS CABRERA 82 (Couvert),Calle de Luis Cabrera 82, 28002 Madrid,Espagne,8328,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3854773,2.1018866,Parking Hôtel ABBA GARDEN (Couvert),Carrer de Santa Rosa 33, 8950  Esplugues de Llobregat,Espagne,6061,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.8737052,-4.7778681,Parking Hôtel HESPERIA CÓRDOBA  (Couvert),Av. Fray Albino 1, 14009 Córdoba,Espagne,5292,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3789106,2.1422499,Parking Public IMSA ESTACIÓN DE SANTS (Couvert),Carrer del Rector Triadó 102, 8014 Barcelona,Espagne,6490,5lat,lon,Parking name, Adresse, OnePark ID, Spots
-48.2986885,11.6253835,Parking Hôtel OLYMP MUNICH (Extérieur),Wielandstr. 3, 85386 Eching,Allemagne,5816,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.9892037,-0.0506315,Parking Hôtel LUZ CASTELLÓN (Couvert),Carrer del Pintor Oliet 3, 12006 Castelló de la Plana,Espagne,4725,5lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.1649966,-3.5974303,Parking Hôtel SANTOS SARAY (Couvert),Calle Prof. Tierno Galván 4, 18006 Granada,Espagne,4815,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1496373,-8.6202337,Parking Public PARQUE DO CARREGAL (Couvert),Rua Miguel Bombarda 275, 4050-381 Porto,Portugal,4673,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7125498,-9.1411923,Parking Hôtel LISBOA PESSOA HOTEL (Couvert),Rua da Condessa nº 13, 1200-120 Lisboa,Portugal,4770,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-48.2986885,11.6253835,Parking Hôtel OLYMP MUNICH (Couvert),Wielandstr. 3, 85386 Eching,Allemagne,5815,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4213428,-3.6896557,Parking Hôtel AC RECOLETOS (Couvert),Calle Villalar 8, 28001 Madrid,Espagne,6041,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3873059,2.1567564,Parking Public PUIGMAL (Extérieur),Carrer de València 178, 8011 Barcelona,Espagne,4121,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1447034,-8.6065115,Parking Public GARAGEM IBÉRIA (Couvert),Praça da Batalha 65, 4000-101 Porto,Portugal,5629,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4433569,-3.668609,Parking Public CLARA DEL REY (Couvert),Calle Clara del Rey 34, 28002 Madrid,Espagne,3532,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1473142,-8.6209412,Parking Public CRISTAL PARK (Couvert),Rua D. Manuel II 35, 4050-345 Porto,Portugal,4671,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.260257,-2.9309762,Parking Hôtel SERCOTEL COLISEO BILBAO (Couvert),Alameda de Urquijo 13, 48008 Bilbao,Espagne,4348,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-51.4775935,7.2234207,Parking Hôtel IBIS BOCHUM ZENTRUM (Extérieur),Universitätsstraße 3, 44789 Bochum,Allemagne,5430,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-40.3460697,-8.5839269,Parking Hôtel B&B CANTANHEDE (Couvert),Av. Comandante Xavier Gomes Gama 1, 3060-209 Cantanhede,Portugal,5912,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.8388657,-9.0833639,Parking Hôtel HOTEL VIP EXECUTIVE SANTA IRIA (Couvert),Hotel Vip Executive Santa Iria Estrada Nacional 10, 2694-001 Santa Iria da Azóia,Portugal,5031,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1566049,-8.6280248,Parking Public GARAGEM JULIO DINIS (Couvert),Rua Julio Dinis 900, 4050-322 Porto,Portugal,5203,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.5525938,-8.3948802,Parking Hôtel B&B BRAGA LAMAÇÃES (Couvert),Av. D. João II 75, 4715-313 Braga,Portugal,5898,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.5033542,9.2115378,Parking Public GRECO PARKING CAR (Couvert),Via Emilio de Marchi 62, 20125 Milano,Italie,5357,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.160015,-8.640766,Parking Hôtel CROWNE PLAZA PORTO (Couvert),Avenida da Boavista 1466, 4100-114 Porto,Portugal,5556,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4473307,-3.5430338,Parking Hôtel B&B MADRID AIRPORT T1-T2-T3 (Couvert),Calle de Lola Flores 2, 28022 Madrid,Espagne,3488,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.9435393,6.9864195,Parking Hôtel IBIS HOTEL KÖLN MESSE (Couvert),Brügelmannstraße 1, 50679 Köln,Allemagne,5872,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.3078975,-8.3526642,Parking Hôtel A´MARISQUEIRA (Extérieur),Rúa Barcala 51, 15176 O Seixal,Espagne,4247,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4005338,2.1496095,Parking Public MADRAZO 27 (Couvert),Carrer dels Madrazo 27, 8006 Barcelona,Espagne,5073,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4473713,-3.6115307,Parking Hôtel SERCOTEL ALCALÁ 611 (Couvert),Calle Alcalá 611, 28022 Madrid,Espagne,4339,4lat,lon,Parking name, Adresse, OnePark ID, Spots
-52.5141483,13.3354518,Parking Hôtel NOVOTEL BERLIN AM TIERGARTEN (Couvert),Straße des 17. Juni 106-108, 10623 Berlin,Allemagne,5484,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4211348,-3.6745612,Parking Public GARAJE MONSTER (Couvert),Calle de Fernán Gonzalez 32, 28009 Madrid,Espagne,4608,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.8863798,-4.7760356,Parking Hôtel MACIA ALFAROS (Couvert),Calle Alfaros 18, 14001 Córdoba,Espagne,5497,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3969943,2.1432563,Parking Public GARATGE GALVANY (Couvert),Carrer de Calaf 28, 8021 Barcelona,Espagne,5061,4lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3810519,2.1312761,Parking Public AVENIDA MADRID (Couvert),Carrer de Lluçà 3, 8028 Barcelona,Espagne,3554,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3150268,2.0333241,Parking Hôtel B&B VILADECANS (Couvert),Carrer de la Tecnologia 4, 8040 Viladecans,Espagne,3523,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3482323,2.0827553,Parking Hôtel CAMPANILE BARCELONA SUD-CORNELLÀ (Couvert),Avinguda del Maresme 7, 8940 Cornellà de Llobregat,Espagne,4166,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.9439045,6.9869583,Parking Hôtel IBIS BUDGET KÖLN MESSE (Extérieur),Brügelmannstrasse 7, 50679 Köln,Allemagne,5552,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-40.2128883,-8.4318376,Parking Public ARNADO (Couvert),Rua de João de Ruão 12, 3000-229 Coimbra,Portugal,5529,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1627501,-8.5968745,Parking Public GARAGEM VELASQUEZ (Couvert),Alameda Eça de Queiros 273, 4200-272 Porto,Portugal,5138,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1557716,-8.616581,Parking Public PORTO PARKING BOAVISTA (Couvert),Rua da Boavista 273, 4050-041 Porto,Portugal,5140,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 38.3134193,-0.5176978,Parking Hôtel IBIS ALICANTE (Extérieur),Calle Bélgica 3, 3008 Alicante,Espagne,5531,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-53.6224745,10.0102589,Parking Hôtel IBIS HAMBURG AIRPORT (Couvert),Alsterkrugchaussee 445, 22335 Hamburg,Allemagne,5570,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7377832,-9.1485492,Parking Public GARAGEM JARDIM DO CARREGAL (Extérieur),Av. Visconde de Valmor 51, 1050-238 Lisboa,Portugal,5910,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3987397,2.173807,Parking Public  ARAGÓ 400 (Couvert),Carrer d'Aragó 400, 8013 Barcelona,Espagne,12915,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.4628674,-3.8085184,Parking Hôtel SILKEN COLISEUM SANTANDER (Couvert),Plaza Remedios 1, 39001 Santander,Espagne,6057,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7088165,-8.9753237,Parking Hôtel B&B LISBOA MONTIJO (Couvert),Avenida D. Afonso Henriques 34, 2870-154 Montijo,Portugal,7406,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4786435,9.1994493,Parking Public GARAGE PALACE (Couvert),Piazza della Repubblica 20, 20124 Milano,Italie,5602,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7052273,-9.3960714,Parking Hôtel PALÁCIO ESTORIL (Couvert),Rua Particular, 2769-504 Estoril,Portugal,5919,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1487443,-8.6039441,Parking Public GARAGEM ELEFANTE AZUL (Couvert),Rua da Alegria 138, 4000-033 Porto,Portugal,5841,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7052273,-9.3960714,Parking Hôtel PALÁCIO ESTORIL (Extérieur),Rua Particular, 2769-504 Estoril,Portugal,5918,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1494653,-8.6216761,Parking Public GARAGEM MIGUEL BOMBARDA (Couvert),Rua Miguel Bombarda 405 a 421, 4050-389 Porto,Portugal,5296,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4022796,2.203648,Parking Public LLULL 219 (Couvert),Carrer de Llull 219, 8005 Barcelona,Espagne,5526,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.9816577,-0.0346059,Parking Hôtel B&B CASTELLÓN (Couvert),Carrer de Carcaixent 3, 12005 Castelló de la Plana,Espagne,5480,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.487343,9.2034105,Parking Public GARAGE SAMMARTINI (Couvert),Via Sammartini 3, 20125 Milano,Italie,5335,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7561892,-9.1778257,Parking Public LUZ SOEIROS PARQUE (Couvert),R. Inocêncio Francisco da Silva, 1500-162 Lisboa,Portugal,5245,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.6490667,-0.8935592,Parking Hôtel CESARAUGUSTA (Couvert),Calle de José Anselmo Clavé 45, 50004 Zaragoza,Espagne,5785,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.4721302,-0.492253,Parking Hôtel IBIS VALENCIA BONAIRE AEROPUERTO (Extérieur),Carrer Pessebret 4, 46930 Quart de Poblet,Espagne,5498,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.3687591,-8.4063827,Parking Hôtel ZENIT CORUÑA (Couvert),Calle cordeleria 99, 15003 A Coruña,Espagne,5980,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4373736,-3.7086676,Parking Hôtel LEONARDO BOUTIQUE MADRID (Couvert),C. de Joaquín María López 3, 28015 Madrid,Espagne,4626,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4660811,9.1892032,Parking Public DUOMO PARKING CAR (Couvert),Via Silvio Pellico 7, 20121 Milano,Italie,5356,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-51.4333894,5.4209869,Parking Hôtel CAMPANILE EINDHOVEN (Extérieur),Noord Brabantlaan 309, 5657 GB Eindhoven,Pays-Bas,4816,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3810715,2.1552569,Parking Hôtel LEONARDO HOTEL BARCELONA GRAN VÍA (Couvert),Carrer de Viladomat 139, 8015 Barcelona,Espagne,4918,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4504478,-3.6979453,Parking Hôtel NYX MADRID (Couvert),Calle del Aviador Zorita 34, 28020 Madrid,Espagne,5231,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7229363,-9.1550924,Parking Hôtel AMAZONIA LISBOA HOTEL (Couvert),Travessa Fábrica dos Pentes 12, 1250-106 Lisboa,Portugal,5880,3lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.4870914,9.2020216,Parking Public GARAGE AUTOSILO (Couvert),P.zza IV Novembre 5, 20124 Milano,Italie,5342,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4393966,-3.6264548,Parking Hôtel IBIS ALCALA MADRID (Extérieur),Calle de Valentin Beato 20, 28037 Madrid,Espagne,5218,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4367432,-3.6789973,Parking Hôtel NH PRINCIPE DE VERGARA (Couvert),Calle del Príncipe de Vergara 92, 28006 Madrid,Espagne,4531,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4588542,-3.6947348,Parking Public EUROBUILDING 2 (Couvert),Calle Orense 69, 28020 Madrid,Espagne,6081,3lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.6492111,-0.9205682,Parking Hôtel B&B HOTEL ZARAGOZA LOS ENLACES ESTACIÓN (Couvert),Calle Pilar Miró 1, 50012 Zaragoza,Espagne,5467,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4384941,-3.6952104,Parking Hôtel NH COLLECTION MADRID ABASCAL (Couvert),Calle de José Abascal 47, 28003 Madrid,Espagne,4636,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.3716667,-5.9993908,Parking Public COLEGIO SAN JOSÉ SFCC (Couvert),Avenida Flota de Indias 12 B, 41011 Sevilla,Espagne,5496,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.1574457,-8.6270324,Parking Public BOAVISTA PARK (Couvert),Av. Boavista 293, 4050-112 Porto,Portugal,5422,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.3829242,-5.9720997,Parking Hôtel NOVOTEL SEVILLA (Couvert),Av. Eduardo Dato 71, 41005 Sevilla,Espagne,5420,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.4110131,2.1856642,Parking Hôtel LEONARDO BOUTIQUE HOTEL BARCELONA SAGRADA FAMILIA (Couvert),Carrer de Mallorca 606, 8026 Barcelona,Espagne,4920,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-45.480737,9.1436674,Parking Public GARAGE LOTTO (Couvert),Piazzale Lotto 14, 20148 Milano,Italie,5435,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7160641,-9.1712969,Parking Public AUTO BOA NOVA (Couvert),Rua Freitas Gazul 19, 1350-149 Lisboa,Portugal,5222,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7298293,-9.1367552,Parking Public GARAGEM RUA PASSOS MANUEL (Couvert),Rua Passos Manuel 100 D, 1150-260 Lisboa,Portugal,5323,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.3624922,-1.788244,Parking Hôtel RÍO BIDASOA (Extérieur),Nafarroa Behera 1, 20280 Fuenterrabía,Espagne,5524,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-49.4466156,11.0687957,Parking Hôtel PARK INN BY RADISSON NÜRNBERG (Couvert),Sandstraße 2-8, 90443 Nürnberg,Allemagne,5609,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7126989,-9.2027331,Parking Public CARNAXIDE GARAGE (Couvert),Estr. de Queluz 95, 2790-192 Lisboa,Portugal,5835,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.3632849,-8.2003966,Parking Hôtel B&B E APARTAMENTOS FELGUEIRAS (Couvert),Av. Dr. Leonardo Coimbra 576, 4610-105  Felgueiras,Portugal,5899,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7043933,-9.1827913,Parking Public ALCANTARA GARAGE (Couvert),R. Luís de Camões 110A, 1300-367 Lisboa,Portugal,5834,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-51.4528438,7.0185497,Parking Hôtel IBIS ESSEN HAUPTBAHNHOF (Extérieur),Hollestraße 50, 45127 Essen,Allemagne,5433,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.8927324,12.5273306,Parking Public CENTRO AUTO ROMA (Couvert),Via Raimondo Montecuccoli 30/32a, 176 Roma,Italie,6645,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-39.5748496,-8.6237548,Parking Hôtel SANTA MARIA (Couvert),Rua de Santo Antonio 79, 2495-430 Fátima,Portugal,5748,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.9184917,7.047453,Parking Hôtel IBIS HOTEL KÖLN AIRPORT (Extérieur),Alter Deutzer Postweg 95, 51149 Köln,Allemagne,5890,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3766271,2.155831,Parking Public MONTERREY (Couvert),Avinguda Mistral 36, 8015 Barcelona,Espagne,3555,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4319246,-3.6735991,Parking Hôtel ZENIT ABEBA (Couvert),Calle de Alcántara 63, 28006 Madrid,Espagne,5999,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 39.4455393,-0.3683991,Parking Hôtel B&B VALENCIA CIUDAD DE LAS CIENCIAS (Couvert),Av. d'Ausiàs March 99, 46013 Valencia,Espagne,4113,2lat,lon,Parking name, Adresse, OnePark ID, Spots
@@ -1159,19 +994,9 @@ lat,lon,Parking name, Adresse, OnePark ID, Spots
 37.1720076,-3.6029845,Parking Hôtel HOSPES PALACIO DE LOS PATOS (Couvert),C. Solarillo de Gracia 1, 18002 Granada,Espagne,3952,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4274948,-3.6849247,Parking Hôtel NH LAGASCA (Couvert),Calle de Lagasca 64, 28001 Madrid,Espagne,6046,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.4261641,-3.688929,Parking Hôtel NH COLLECTION MADRID COLÓN (Couvert),calle Marqués de Zurgena 4, 28001 Madrid,Espagne,4579,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7139646,-9.1444525,Parking Hôtel THE LUMIARES (Couvert),Rua Diário de Notícias 142, 1200-146 Lisboa,Portugal,4775,2lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.9299664,6.9446266,Parking Hôtel IBIS HOTEL KÖLN CENTRUM (Couvert),Neue Weyerstraße 4, 50676 Köln,Allemagne,5916,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.407825,-3.7007992,Parking Hôtel IBIS BUDGET MADRID CENTRO LAVAPIES (Couvert),Calle Valencia 8-10, 28012 Madrid,Espagne,6063,2lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3774326,2.1386446,Parking Hôtel AC HOTELS BY MARRIOTT SANTS (Couvert),Passeig de Sant Antoni 36-40, 8014 Barcelona,Espagne,3553,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 41.3860574,2.1515489,Parking Hôtel ZENIT BORRELL (Couvert),Carrer del Comte Borrell 208, 8029 Barcelona,Espagne,5997,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-48.9948036,8.4038244,Parking Hôtel IBIS KARLSRUHE HAUPTBAHNHOF (Extérieur),Poststraße 1, 76137 Karlsruhe,Allemagne,5619,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.9208323,12.5139393,Parking Hôtel MERCURE ROMA CORSO TRIESTE (Couvert),Via Gradisca 29, 198 Roma,Italie,4810,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-39.6292586,-8.6773497,Parking Hôtel SÃO JOSÉ (Couvert),Av. D. Jose Alves Correia da Silva, 2495-402 Fátima,Portugal,5752,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 40.9610483,-5.6646117,Parking Hôtel NH COLLECTION PALACIO DE CASTELLANOS (Couvert),Calle San Pablo 58-64, 37008 Salamanca,Espagne,6037,1lat,lon,Parking name, Adresse, OnePark ID, Spots
 43.2584586,-2.9468245,Parking Hôtel IBIS BUDGET BILBAO CITY (Couvert),Calle Zankoeta 9 Nº Reg H.Bi.01272, 48013 Bilbao,Espagne,6062,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-41.4018806,2.1484571,Parking Discount AUGUSTA (Couvert),Carrer de Matilde Díez 9, 8006 Barcelona,Espagne,3732,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7240857,-9.1540777,Parking Public GARAGEM MOONLOFT (Couvert),Rua Rodrigo da Fonseca 78A, 1250-193 Lisboa,Portugal,4836,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7332497,-9.1473549,Parking Hôtel ZENIT LISBOA (Couvert),Rua Pinheiro Chagas 14, 1050-170 Lisboa,Portugal,5715,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-38.7307619,-9.1392065,Parking Public EUROMASTER ESTEFÂNIA (Couvert),Rua Alexandre Braga nº 14, A/B,Portugal,4838,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-50.05594,8.5914687,Parking Hôtel MEININGER HOTEL FRANKFURT AIRPORT (Couvert),Bessie-Coleman-Straße 11, 60549 Frankfurt am Main,Allemagne,5569,1lat,lon,Parking name, Adresse, OnePark ID, Spots
-48.6917839,9.1679229,Parking Hôtel PARKHOTEL STUTTGART MESSE AIRPORT (Couvert),Filderbahnstraße 2, 70771 Leinfelden-Echterdingen,Allemagne,5418,1
+41.4018806,2.1484571,Parking Discount AUGUSTA (Couvert),Carrer de Matilde Díez 9, 8006 Barcelona,Espagne,3732,1
